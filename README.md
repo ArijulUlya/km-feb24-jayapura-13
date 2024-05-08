@@ -16,4 +16,5 @@
    - Desvina Firyal
    - Dewi Kurnia
    - Fani
-
+6. **Mentor:**
+   - Samuel
