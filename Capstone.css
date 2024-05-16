@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 85%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.hero {
+    background-image: url(Assets/training.webp);
+    padding: 200px;
+    text-align: center;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-size: 24px;
+    justify-content: center;
+}
+
+.hero .container {
+    text-align: center;
+}
+
+.features {
+    padding: 50px;
+    text-align: center;
+}
+
+.features .feature {
+    margin-bottom: 20px;
+}
+
+.chart {
+    text-align: right;
+    background-image: url(Assets/Chart.avif);
+    padding: 200px;
+    color: rgb(0, 0, 0);
+    background-repeat: no-repeat;
+    background-size: 45%;
+  }
+
+.about {
+    text-align: left;
+    background-image: url(Assets/community.avif);
+    background-position: right;
+    padding: 200px;
+    color: rgb(0, 0, 0);
+    background-repeat: no-repeat;
+    background-size: 50%;
+  }
+
+.contact {
+    text-align: right;
+    background-image: url(Assets/contact.jpg);
+    padding: 200px;
+    color: rgb(0, 0, 0);
+    background-repeat: no-repeat;
+    background-size: 45%;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
