@@ -21,6 +21,7 @@ body {
     color: #6342e4;
 }
 
+/*Style Navbar*/
 .nav {
     width: 80%;
     margin: auto;
@@ -72,6 +73,8 @@ body {
     background-color: white;
     border: solid 1px #6342e4;
 }
+
+/*End Style Navbar*/
 
 h1, h2, h3 {
     margin: 0;

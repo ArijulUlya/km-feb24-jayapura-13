@@ -1,0 +1,144 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    margin: 0;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+
+/*Style Navbar*/
+.logo {
+    font-family: 'Arial', sans-serif;
+    font-size: 35px;
+}
+
+.logo span {
+    color: #6342e4;
+}
+
+.header {
+    padding: 15px;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    box-shadow: 1px 1px 5px rgb(182, 194, 198);
+}
+
+.nav {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav ul {
+    display: flex;
+    align-items: center;
+}
+
+.nav ul li {
+    list-style: none;
+    margin-right: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.nav ul li:last-child {
+    margin-right: 0;
+}
+
+.nav ul li:hover:not(:last-child) {
+    background-color: rgb(224, 224, 224);
+}
+
+.nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 8px 16px;
+    color: white; 
+    background-color: #6342e4;
+    border: solid 1px white;
+    border-radius: 5px;
+    transition: background-color 0.3s, border-color 0.3s, color 0.3s;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.btn:hover {
+    color: rgb(119, 0, 255);
+    background-color: white;
+    border: solid 1px #6342e4;
+}
+
+/*End Style Navbar*/
+
+/* Styling untuk hamburger menu */
+.hamburger-menu {
+    display: none; /*Sembunyikan tombol hamburger secara default*/
+    cursor: pointer;
+}
+
+.bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: black;
+}
+
+/*End Style hamburger menu*/
+
+.container h1 {
+    margin-bottom: 1em;
+}
+
+.team-members {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.team-member {
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.team-member img {
+    display: block;
+    margin: 0 auto 10px;
+    max-width: 100%;
+    height: auto;
+}
+
+.member-info {
+    text-align: center;
+}
+
+.member-info h2 {
+    margin-top: 0;
+}
