@@ -91,7 +91,10 @@ main {
 
 .container-card{
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-areas:
+    "c1 c2 c3"
+    "c4 c5 c6";
     gap: 2em;
 }
 .card {
