@@ -288,6 +288,7 @@ ul {
   padding: 20px;
 }
 
+
 .profile-container {
   display: flex;
   align-items: center;
@@ -322,9 +323,10 @@ ul {
 }
 
 .profile-name {
-  font-size: 24px;
+  font-size: 18px;
   font-weight: bold;
-  margin: 25px 0 10px 0;
+  margin: 20px 0 10px 0;
+  text-align: center;
 }
 
 .profile-position {
@@ -345,6 +347,14 @@ ul {
   color: #fff;
   background: #748dff;
   border: 1px solid #748dff;
+}
+
+.teamh2 {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
 }
 
 @media screen and (max-width: 1000px) {
