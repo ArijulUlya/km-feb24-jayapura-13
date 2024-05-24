@@ -4,12 +4,6 @@ body {
     padding: 0;
 }
 
-.container {
-    width: 85%;
-    max-width: 1200px;
-    margin: 0 auto;
-}
-
 header {
     background-color: #ffffff;
     color: #000000;
@@ -45,11 +39,11 @@ nav ul li a {
     background-repeat: no-repeat;
     background-size: 100%;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    font-size: 24px;
+    font-size: 20px;
     justify-content: center;
 }
 
-.hero .container {
+.hero {
     text-align: center;
 }
 
@@ -58,17 +52,31 @@ nav ul li a {
     text-align: center;
 }
 
-.features .feature {
+.features {
     margin-bottom: 20px;
 }
 
 .chart {
     text-align: right;
-    background-image: url(Assets/Chart.avif);
+    background-image: url(Assets/chart-2.jpeg);
     padding: 200px;
     color: rgb(0, 0, 0);
     background-repeat: no-repeat;
-    background-size: 45%;
+    background-size: 40%;
+    margin-left: 12%;
+    margin-top: 10%;
+  }
+
+  .btn {
+    cursor: pointer;
+    display: inline-block;
+    border: 0;
+    font-weight: bold;
+    padding: 10px 20px;
+    background: #262626;
+    color: #fff;
+    font-size: 15px;;
+    text-decoration: none;
   }
 
 .about {
@@ -78,7 +86,8 @@ nav ul li a {
     padding: 200px;
     color: rgb(0, 0, 0);
     background-repeat: no-repeat;
-    background-size: 50%;
+    background-size: 35%;
+    width: 62%;
   }
 
 .contact {
@@ -87,12 +96,47 @@ nav ul li a {
     padding: 200px;
     color: rgb(0, 0, 0);
     background-repeat: no-repeat;
-    background-size: 45%;
+    background-size: 35%;
+    margin-left: 12%;
 }
 
 .footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #f2f2f2;
+    color: #000000;
     text-align: center;
-    padding: 20px;
+    padding: 1px;
+}
+
+.revou {
+    width: 50px;
+    height: auto;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.kampus-merdeka {
+    width: 90px;
+    height: auto;
+    padding: 10px;
+}
+
+.github {
+    width: 56px;
+    height: auto;
+    padding: 10px;
+}
+
+@media(max-width: 700px) {
+ .hero .content p{
+    display: none;
+}
+
+ .hero .content h2 {
+    margin-bottom: 20px;
+  }
+
+ .contact .content {
+    width: 85%;
+  }
+
 }
