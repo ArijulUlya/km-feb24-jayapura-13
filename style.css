@@ -22,9 +22,7 @@ ul {
 }
 
 .container-home {
-  width: 90%;
-  max-width: 1100px;
-  margin: auto;
+  width: 100%;
 }
 
 /* Nav */
