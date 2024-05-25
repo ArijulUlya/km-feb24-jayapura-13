@@ -98,6 +98,7 @@ ul {
   width: 100%;
   height: 400px;
   background: url("Gambar/training.webp") no-repeat center center/cover;
+  background-size: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
