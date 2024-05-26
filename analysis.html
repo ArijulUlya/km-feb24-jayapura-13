@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Store Dashboard</title>
     <link rel="stylesheet" href="style_analysis.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
 </head>
 <body>
     <header class="header">
@@ -25,82 +27,141 @@
     </header>
 
     <main>
-        <div>
-            
-        </div>
-
-        <div class="container-card">
-            <div class="card c1">
-                <div class="card-header">
-                    <h2>Chart 1</h2>
+        <div class="dashboard">
+            <div class="top-section">
+                <div class="card total-profit">
+                    <p class="number">xxx</p>
+                    <p class="label">Total Profit</p>
                 </div>
-                <div class="card-body">
-                    <!-- Grafik akan ditambahkan di sini -->
+                <div class="card total-customer">
+                    <p class="number">xxx</p>
+                    <p class="label">Total Customer</p>
                 </div>
-                <div class="card-desc">
-                    
+                <div class="card total-order">
+                    <p class="number">xxx</p>
+                    <p class="label">Total Orders</p>
                 </div>
-            </div>
-            <div class="card c2">
-                <div class="card-header">
-                    <h2>Chart 2</h2>
-                </div>
-                <div class="card-body">
-                    <!-- Grafik akan ditambahkan di sini -->
-                </div>
-                <div class="card-desc">
-                    
+                <div class="card total-sales">
+                    <p class="number">xxx</p>
+                    <p class="label">Total Sales</p>
                 </div>
             </div>
-            <div class="card c3">
-                <div class="card-header">
-                    <h2>Chart 3</h2>
+            <div class="container-card">
+                <div class="card c1">
+                    <h3>Profit by Category</h3>
+                    <canvas id="categoryChart" width="200" height="150"></canvas>
                 </div>
-                <div class="card-body">
-                    <!-- Grafik akan ditambahkan di sini -->
+                <div class="card c2">
+                    <h3>Profit by Segment</h3>
+                    <canvas id="segmentChart" width="200" height="150"></canvas>
                 </div>
-                <div class="card-desc">
-                    
+                <div class="card c3">
+                    <h3>Profit by Ship Mode</h3>
+                    <canvas id="shipModeChart" width="200" height="150"></canvas>
                 </div>
-            </div>
-            <div class="card c4">
-                <div class="card-header">
-                    <h2>Chart 4</h2>
+                <div class="card c4">
+                    <h3>Profit by Year</h3>
+                    <canvas id="yearChart" width="200" height="150"></canvas>
                 </div>
-                <div class="card-body">
-                    <!-- Grafik akan ditambahkan di sini -->
+                <div class="card c5">
+                    <h3>Top 5 Profit by City</h3>
+                    <canvas id="cityChart" width="200" height="150"></canvas>
                 </div>
-                <div class="card-desc">
-                    
+                <div class="card c6">
+                    <h3>Top Products</h3>
+                    <div id="searchContainer">
+                        <input type="text" id="searchInput" placeholder="Search...">
+                        <button onclick="searchProducts()">Search</button>
+                    </div>
+                    <div id="topProductsTable" class="scrollable-table">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>No</th>
+                                    <th>Product</th>
+                                    <th>Profit</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                        <button onclick="clearSearch()">Clear</button> <!-- Tombol Clear -->
+                    </div>
                 </div>
-            </div>
-            <div class="card c5">
-                <div class="card-header">
-                    <h2>Chart 5</h2>
+                <!-- <div class="card c1">
+                    <div class="card-header">
+                        <h2>Sales Per Year</h2>
+                    </div>
+                    <div class="card-body">
+                        <canvas id="salesYear" width="200" height="150"></canvas>
+                    </div>
+                    <div class="card-desc">
+                        
+                    </div>
                 </div>
-                <div class="card-body">
-                    <!-- Grafik akan ditambahkan di sini -->
+                <div class="card c2">
+                    <div class="card-header">
+                        <h2>Quantity Per Year</h2>
+                    </div>
+                    <div class="card-body">
+                        <canvas id="QuantityYear"></canvas>
+                    </div>
+                    <div class="card-desc">
+                        
+                    </div>
                 </div>
-                <div class="card-desc">
-                    
+                <div class="card c3">
+                    <div class="card-header">
+                        <h2>Customer Sales</h2>
+                    </div>
+                    <div class="card-body">
+                        <canvas id="customerSales"></canvas>
+                    </div>
+                    <div class="card-desc">
+                        
+                    </div>
                 </div>
-            </div>
-            <div class="card c6">
-                <div class="card-header">
-                    <h2>Chart 6</h2>
+                <div class="card c4">
+                    <div class="card-header">
+                        <h2>Customer Growth</h2>
+                    </div>
+                    <div class="card-body">
+                       <canvas id="customerGrowth"></canvas>
+                    </div>
+                    <div class="card-desc">
+                        
+                    </div>
                 </div>
-                <div class="card-body">
-                    <!-- Grafik akan ditambahkan di sini -->
+                <div class="card c5">
+                    <div class="card-header">
+                        <h2>Customer Retention</h2>
+                    </div>
+                    <div class="card-body">
+                        <canvas id="customerRetention"></canvas>
+                    </div>
+                    <div class="card-desc">
+                        
+                    </div>
                 </div>
-                <div class="card-desc">
-                    
+                <div class="card c6">
+                    <div class="card-header">
+                        <h2>AOV Per Sub-Category</h2>
+                    </div>
+                    <div class="card-body">
+                        <canvas id="aovSubcategory"></canvas>
+                    </div>
+                    <div class="card-desc">
+                        
+                    </div>
                 </div>
-            </div>
-            <!-- Tambahkan lebih banyak kartu jika diperlukan -->
+                <div style="width: 600px; margin: 0 auto;">
+                    <canvas id="myChart"></canvas>
+                </div> -->
+                <!-- Tambahkan lebih banyak kartu jika diperlukan -->
+            </div>           
         </div>
         
     </main>
     
-    <script src="script.js"></script>
+    
 </body>
 </html>

@@ -89,22 +89,65 @@ main {
     padding: 20px;
 }
 
+.top-section {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.top-section .card {
+    flex: 1;
+    background: linear-gradient(145deg, #6a11cb 0%, #2575fc 100%);
+    color: white;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.top-section .card.total-profit {
+    background: linear-gradient(145deg, #6a11cb 0%, #ac7cfa 100%);
+}
+
+.top-section .card.total-customer {
+    background: linear-gradient(145deg, #7c8afa 0%, #e97cfa 100%);
+}
+
+.top-section .card.total-order {
+    background: linear-gradient(145deg, #ac7cfa 0%, #947cfa 100%);
+}
+
+.top-section .card.total-sales {
+    background: linear-gradient(145deg, #e97cfa 0%, #7c8afa 100%);
+}
+
+.top-section .number {
+    font-size: 2em;
+    margin: 0;
+}
+
+.top-section .label {
+    font-size: 1em;
+    margin: 0;
+}
+
 .container-card{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     grid-template-areas:
-    "c1 c2 c3"
-    "c4 c5 c6";
+    "c1 c2"
+    "c3 c4"
+    "c5 c6";
     gap: 2em;
 }
-.card {
+.container-card .card {
     border: 1px solid #ccc;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
 }
 
-.card-header {
+.container-card .card-header {
     background-color: #f5f5f5;
     padding: 10px;
     border-bottom: 1px solid #ccc;
@@ -112,7 +155,7 @@ main {
     border-top-right-radius: 8px;
 }
 
-.card-header h2 {
+.container-card .card-header h2 {
     margin: 0;
     font-size: 1.5em;
 }
