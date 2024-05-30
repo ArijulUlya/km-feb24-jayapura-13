@@ -1,61 +1,41 @@
 <!DOCTYPE html>
-<html lang="en" >
+<html
 <head>
-  <meta charset="UTF-8">
-  <title>Superstore</title>
-  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css'>
-  <link rel="stylesheet" href="style.css">
+    <title>Responsive Contact Us Page</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-  <div class="container-home">
-    <nav class="main-nav">
-      <img src="https://logodix.com/logo/1944543.png" alt="Superstore" class="logo">
-      <ul class="main-menu">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="analisis.html">Analisis</a></li>
-        <li><a href="team.html">About Us</a></li>
-        <li><a href="form.html">Contact Us</a></li>
-      </ul>
-    </nav>
-
-    <header class="home">
-      <h2>Welcome to Team 13 Jayapura Superstore Analysis</h2>
-      <p>
-        "Get deep insights into your business performance"
-      </p>
-      <a href="analisis.html" class="btn">
-        Go To Analisis <i class="fas fa-chevron-right"></i>
-      </a>
-    </header>
-
-    <section class="about">
-      <div class="content">
-        <h2>Meet Our Team 13 Jayapura</h2>
-        <p>Get to know the information of the people behind our capstone project</p>
-          <a href="team.html" class="btn">
-            CHECK TEAM <i class="fas fa-chevron-right"></i>
-          </a>
-      </div>
-    </section>
-
+    
     <section class="contact">
-      <div class="content">
-        <h2>Contact Us</h2>
-        <p><p>We’re here to help! Whether you have a question,<br>need assistance, or want to share your feedback,<br>don’t hesitate to reach out to us</p></p>
-          <a href="form.html" class="btn">
-            Send a Message <i class="fas fa-chevron-right"></i>
-          </a>
-      </div>
-    </section> 
-    </div>
-      <footer>
-        <div class="footer">
-            <h4>Team 13 - Jayapura</h4>
-            <img src="Gambar/revou.jpg" alt="RevoU" class="revou">
-            <img src="Gambar/kampus-merdeka.png" alt="Kampus Merdeka" class="kampus-merdeka">
-            <img src="Gambar/github.png" alt="GitHub" class="github">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <div class="contact-wrapper">
+                <div class="contact-form">
+                    <h3>Send us a message</h3>
+                    <form>
+                        <div class="form-group">
+                            <input type="text" name="name" placeholder="Your Name">
+                        </div>
+                        <div class="form-group">
+                            <input type="email" name="name" placeholder="Your Email">
+                        </div>
+                        <div class="form-group">
+                            <textarea name="massage" placeholder="Your Message"></textarea>
+                        </div>
+                        <button type="submit">Send Message</button>
+                    </form>
+                </div>
+                <div class="contact-info">
+                    <h3>Contact Information</h3>
+                    <p><i class="fas fa-phone"></i>+62 82 246 562 600</p>
+                    <p><i class="fas fa-envelope"></i>team13.jayapura@gmail.com</p>
+                    <p><i class="fas fa-map-marker-alt"></i>123 Street, City, Country</p>
+                </div>
+            </div>
         </div>
-    </footer>
-  <script  src="script.js"></script>
+    </section>
 </body>
 </html>
