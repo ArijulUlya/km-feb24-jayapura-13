@@ -1,0 +1,1809 @@
+[{
+  "Customer_ID": "AA-10315",
+  "Year": "2016",
+  "Total_Sales": "476.0"
+}, {
+  "Customer_ID": "AB-10015",
+  "Year": "2014",
+  "Total_Sales": "12.62"
+}, {
+  "Customer_ID": "AB-10105",
+  "Year": "2015",
+  "Total_Sales": "671.0"
+}, {
+  "Customer_ID": "AB-10105",
+  "Year": "2017",
+  "Total_Sales": "470.38"
+}, {
+  "Customer_ID": "AB-10150",
+  "Year": "2016",
+  "Total_Sales": "15.55"
+}, {
+  "Customer_ID": "AB-10150",
+  "Year": "2017",
+  "Total_Sales": "138.7"
+}, {
+  "Customer_ID": "AB-10255",
+  "Year": "2016",
+  "Total_Sales": "13.62"
+}, {
+  "Customer_ID": "AC-10420",
+  "Year": "2017",
+  "Total_Sales": "162.16"
+}, {
+  "Customer_ID": "AC-10615",
+  "Year": "2017",
+  "Total_Sales": "12.77"
+}, {
+  "Customer_ID": "AC-10660",
+  "Year": "2017",
+  "Total_Sales": "143.73"
+}, {
+  "Customer_ID": "AD-10180",
+  "Year": "2014",
+  "Total_Sales": "600.56"
+}, {
+  "Customer_ID": "AF-10870",
+  "Year": "2017",
+  "Total_Sales": "233.06"
+}, {
+  "Customer_ID": "AG-10330",
+  "Year": "2017",
+  "Total_Sales": "108.13"
+}, {
+  "Customer_ID": "AG-10495",
+  "Year": "2015",
+  "Total_Sales": "373.28000000000003"
+}, {
+  "Customer_ID": "AG-10525",
+  "Year": "2014",
+  "Total_Sales": "559.71"
+}, {
+  "Customer_ID": "AG-10675",
+  "Year": "2015",
+  "Total_Sales": "259.95"
+}, {
+  "Customer_ID": "AG-10675",
+  "Year": "2016",
+  "Total_Sales": "224.66999999999996"
+}, {
+  "Customer_ID": "AG-10900",
+  "Year": "2017",
+  "Total_Sales": "108.4"
+}, {
+  "Customer_ID": "AH-10075",
+  "Year": "2016",
+  "Total_Sales": "217.44"
+}, {
+  "Customer_ID": "AH-10120",
+  "Year": "2017",
+  "Total_Sales": "174.44"
+}, {
+  "Customer_ID": "AH-10210",
+  "Year": "2017",
+  "Total_Sales": "195.96"
+}, {
+  "Customer_ID": "AH-10465",
+  "Year": "2015",
+  "Total_Sales": "405.46"
+}, {
+  "Customer_ID": "AH-10690",
+  "Year": "2015",
+  "Total_Sales": "72.65"
+}, {
+  "Customer_ID": "AM-10360",
+  "Year": "2016",
+  "Total_Sales": "57.239999999999995"
+}, {
+  "Customer_ID": "AP-10720",
+  "Year": "2015",
+  "Total_Sales": "27.17"
+}, {
+  "Customer_ID": "AR-10345",
+  "Year": "2015",
+  "Total_Sales": "179.89"
+}, {
+  "Customer_ID": "AR-10345",
+  "Year": "2017",
+  "Total_Sales": "85.2"
+}, {
+  "Customer_ID": "AR-10825",
+  "Year": "2016",
+  "Total_Sales": "347.8"
+}, {
+  "Customer_ID": "AS-10045",
+  "Year": "2017",
+  "Total_Sales": "36.29"
+}, {
+  "Customer_ID": "AS-10090",
+  "Year": "2016",
+  "Total_Sales": "36.65"
+}, {
+  "Customer_ID": "AS-10285",
+  "Year": "2016",
+  "Total_Sales": "84.61999999999999"
+}, {
+  "Customer_ID": "AS-10630",
+  "Year": "2017",
+  "Total_Sales": "372.45000000000005"
+}, {
+  "Customer_ID": "AT-10735",
+  "Year": "2016",
+  "Total_Sales": "303.92"
+}, {
+  "Customer_ID": "AW-10840",
+  "Year": "2015",
+  "Total_Sales": "30.259999999999998"
+}, {
+  "Customer_ID": "AW-10930",
+  "Year": "2016",
+  "Total_Sales": "546.6"
+}, {
+  "Customer_ID": "AZ-10750",
+  "Year": "2014",
+  "Total_Sales": "25.18"
+}, {
+  "Customer_ID": "BB-10990",
+  "Year": "2015",
+  "Total_Sales": "374.07"
+}, {
+  "Customer_ID": "BB-11545",
+  "Year": "2015",
+  "Total_Sales": "39.61"
+}, {
+  "Customer_ID": "BB-11545",
+  "Year": "2017",
+  "Total_Sales": "31.87"
+}, {
+  "Customer_ID": "BC-11125",
+  "Year": "2014",
+  "Total_Sales": "340.12"
+}, {
+  "Customer_ID": "BD-11770",
+  "Year": "2016",
+  "Total_Sales": "86.35"
+}, {
+  "Customer_ID": "BE-11335",
+  "Year": "2016",
+  "Total_Sales": "20.94"
+}, {
+  "Customer_ID": "BF-11005",
+  "Year": "2016",
+  "Total_Sales": "327.42"
+}, {
+  "Customer_ID": "BF-11020",
+  "Year": "2017",
+  "Total_Sales": "663.87"
+}, {
+  "Customer_ID": "BF-11170",
+  "Year": "2016",
+  "Total_Sales": "22.61"
+}, {
+  "Customer_ID": "BF-11215",
+  "Year": "2017",
+  "Total_Sales": "55.62"
+}, {
+  "Customer_ID": "BG-11035",
+  "Year": "2015",
+  "Total_Sales": "162.07"
+}, {
+  "Customer_ID": "BG-11035",
+  "Year": "2016",
+  "Total_Sales": "82.410000000000011"
+}, {
+  "Customer_ID": "BG-11740",
+  "Year": "2016",
+  "Total_Sales": "10.78"
+}, {
+  "Customer_ID": "BM-11140",
+  "Year": "2014",
+  "Total_Sales": "2379.95"
+}, {
+  "Customer_ID": "BM-11650",
+  "Year": "2014",
+  "Total_Sales": "24.72"
+}, {
+  "Customer_ID": "BM-11785",
+  "Year": "2016",
+  "Total_Sales": "419.94"
+}, {
+  "Customer_ID": "BP-11095",
+  "Year": "2017",
+  "Total_Sales": "95.98"
+}, {
+  "Customer_ID": "BP-11185",
+  "Year": "2015",
+  "Total_Sales": "1203.44"
+}, {
+  "Customer_ID": "BT-11680",
+  "Year": "2015",
+  "Total_Sales": "3.44"
+}, {
+  "Customer_ID": "BW-11110",
+  "Year": "2016",
+  "Total_Sales": "51.71"
+}, {
+  "Customer_ID": "CA-11965",
+  "Year": "2015",
+  "Total_Sales": "697.81999999999994"
+}, {
+  "Customer_ID": "CA-12055",
+  "Year": "2015",
+  "Total_Sales": "89.86"
+}, {
+  "Customer_ID": "CA-12055",
+  "Year": "2016",
+  "Total_Sales": "258.7"
+}, {
+  "Customer_ID": "CA-12265",
+  "Year": "2017",
+  "Total_Sales": "330.46999999999997"
+}, {
+  "Customer_ID": "CA-12310",
+  "Year": "2016",
+  "Total_Sales": "376.64"
+}, {
+  "Customer_ID": "CB-12025",
+  "Year": "2014",
+  "Total_Sales": "7.08"
+}, {
+  "Customer_ID": "CB-12025",
+  "Year": "2015",
+  "Total_Sales": "726.80000000000007"
+}, {
+  "Customer_ID": "CB-12025",
+  "Year": "2017",
+  "Total_Sales": "251.11"
+}, {
+  "Customer_ID": "CC-12145",
+  "Year": "2015",
+  "Total_Sales": "47.52"
+}, {
+  "Customer_ID": "CC-12145",
+  "Year": "2017",
+  "Total_Sales": "31.74"
+}, {
+  "Customer_ID": "CC-12220",
+  "Year": "2016",
+  "Total_Sales": "962.41"
+}, {
+  "Customer_ID": "CC-12370",
+  "Year": "2017",
+  "Total_Sales": "1.25"
+}, {
+  "Customer_ID": "CC-12475",
+  "Year": "2017",
+  "Total_Sales": "524.02"
+}, {
+  "Customer_ID": "CC-12550",
+  "Year": "2017",
+  "Total_Sales": "10.37"
+}, {
+  "Customer_ID": "CC-12610",
+  "Year": "2015",
+  "Total_Sales": "61.79"
+}, {
+  "Customer_ID": "CC-12685",
+  "Year": "2015",
+  "Total_Sales": "546.80000000000007"
+}, {
+  "Customer_ID": "CD-11980",
+  "Year": "2017",
+  "Total_Sales": "296.02"
+}, {
+  "Customer_ID": "CG-12520",
+  "Year": "2015",
+  "Total_Sales": "136.72"
+}, {
+  "Customer_ID": "CG-12520",
+  "Year": "2017",
+  "Total_Sales": "18.16"
+}, {
+  "Customer_ID": "CJ-12010",
+  "Year": "2017",
+  "Total_Sales": "1875.1299999999999"
+}, {
+  "Customer_ID": "CK-12205",
+  "Year": "2016",
+  "Total_Sales": "203.64"
+}, {
+  "Customer_ID": "CK-12205",
+  "Year": "2017",
+  "Total_Sales": "237.61"
+}, {
+  "Customer_ID": "CM-11815",
+  "Year": "2014",
+  "Total_Sales": "70.31"
+}, {
+  "Customer_ID": "CM-12160",
+  "Year": "2017",
+  "Total_Sales": "1.74"
+}, {
+  "Customer_ID": "CM-12235",
+  "Year": "2016",
+  "Total_Sales": "1399.94"
+}, {
+  "Customer_ID": "CM-12445",
+  "Year": "2016",
+  "Total_Sales": "132.96"
+}, {
+  "Customer_ID": "CM-12655",
+  "Year": "2015",
+  "Total_Sales": "449.05"
+}, {
+  "Customer_ID": "CM-12715",
+  "Year": "2014",
+  "Total_Sales": "1488.7700000000002"
+}, {
+  "Customer_ID": "CM-12715",
+  "Year": "2015",
+  "Total_Sales": "1283.33"
+}, {
+  "Customer_ID": "CR-12820",
+  "Year": "2017",
+  "Total_Sales": "702.84999999999991"
+}, {
+  "Customer_ID": "CS-11845",
+  "Year": "2015",
+  "Total_Sales": "9.16"
+}, {
+  "Customer_ID": "CS-11860",
+  "Year": "2015",
+  "Total_Sales": "1.72"
+}, {
+  "Customer_ID": "CS-12130",
+  "Year": "2015",
+  "Total_Sales": "88.8"
+}, {
+  "Customer_ID": "CS-12250",
+  "Year": "2015",
+  "Total_Sales": "6.61"
+}, {
+  "Customer_ID": "CS-12490",
+  "Year": "2016",
+  "Total_Sales": "111.67"
+}, {
+  "Customer_ID": "CT-11995",
+  "Year": "2016",
+  "Total_Sales": "244.3"
+}, {
+  "Customer_ID": "CV-12805",
+  "Year": "2016",
+  "Total_Sales": "1013.79"
+}, {
+  "Customer_ID": "CV-12805",
+  "Year": "2017",
+  "Total_Sales": "253.39000000000001"
+}, {
+  "Customer_ID": "CW-11905",
+  "Year": "2014",
+  "Total_Sales": "142.34"
+}, {
+  "Customer_ID": "CY-12745",
+  "Year": "2014",
+  "Total_Sales": "210.39"
+}, {
+  "Customer_ID": "DA-13450",
+  "Year": "2014",
+  "Total_Sales": "16.61"
+}, {
+  "Customer_ID": "DB-12910",
+  "Year": "2016",
+  "Total_Sales": "15.01"
+}, {
+  "Customer_ID": "DB-12970",
+  "Year": "2014",
+  "Total_Sales": "203.12"
+}, {
+  "Customer_ID": "DB-13120",
+  "Year": "2017",
+  "Total_Sales": "760.98"
+}, {
+  "Customer_ID": "DB-13210",
+  "Year": "2015",
+  "Total_Sales": "162.07"
+}, {
+  "Customer_ID": "DB-13270",
+  "Year": "2015",
+  "Total_Sales": "3.88"
+}, {
+  "Customer_ID": "DB-13270",
+  "Year": "2017",
+  "Total_Sales": "464.38"
+}, {
+  "Customer_ID": "DB-13555",
+  "Year": "2017",
+  "Total_Sales": "1407.1999999999998"
+}, {
+  "Customer_ID": "DB-13660",
+  "Year": "2015",
+  "Total_Sales": "10.48"
+}, {
+  "Customer_ID": "DB-13660",
+  "Year": "2017",
+  "Total_Sales": "6.85"
+}, {
+  "Customer_ID": "DC-12850",
+  "Year": "2014",
+  "Total_Sales": "502.20000000000005"
+}, {
+  "Customer_ID": "DC-12850",
+  "Year": "2017",
+  "Total_Sales": "56.51"
+}, {
+  "Customer_ID": "DD-13570",
+  "Year": "2016",
+  "Total_Sales": "4.31"
+}, {
+  "Customer_ID": "DH-13075",
+  "Year": "2016",
+  "Total_Sales": "8.71"
+}, {
+  "Customer_ID": "DK-12835",
+  "Year": "2014",
+  "Total_Sales": "155.37"
+}, {
+  "Customer_ID": "DK-13090",
+  "Year": "2017",
+  "Total_Sales": "47.9"
+}, {
+  "Customer_ID": "DK-13375",
+  "Year": "2017",
+  "Total_Sales": "1.39"
+}, {
+  "Customer_ID": "DL-12865",
+  "Year": "2017",
+  "Total_Sales": "6.0"
+}, {
+  "Customer_ID": "DM-12955",
+  "Year": "2016",
+  "Total_Sales": "100.71000000000001"
+}, {
+  "Customer_ID": "DM-13015",
+  "Year": "2015",
+  "Total_Sales": "21.12"
+}, {
+  "Customer_ID": "DM-13015",
+  "Year": "2017",
+  "Total_Sales": "837.79"
+}, {
+  "Customer_ID": "DM-13525",
+  "Year": "2016",
+  "Total_Sales": "52.1"
+}, {
+  "Customer_ID": "DO-13645",
+  "Year": "2015",
+  "Total_Sales": "76.64"
+}, {
+  "Customer_ID": "DP-13000",
+  "Year": "2014",
+  "Total_Sales": "169.56"
+}, {
+  "Customer_ID": "DP-13000",
+  "Year": "2017",
+  "Total_Sales": "89.57"
+}, {
+  "Customer_ID": "DS-13180",
+  "Year": "2015",
+  "Total_Sales": "134.38"
+}, {
+  "Customer_ID": "DS-13180",
+  "Year": "2017",
+  "Total_Sales": "224.43000000000004"
+}, {
+  "Customer_ID": "DW-13195",
+  "Year": "2016",
+  "Total_Sales": "448.42"
+}, {
+  "Customer_ID": "DW-13540",
+  "Year": "2016",
+  "Total_Sales": "16.19"
+}, {
+  "Customer_ID": "DW-13540",
+  "Year": "2017",
+  "Total_Sales": "68.42"
+}, {
+  "Customer_ID": "Dl-13600",
+  "Year": "2017",
+  "Total_Sales": "1.62"
+}, {
+  "Customer_ID": "EA-14035",
+  "Year": "2016",
+  "Total_Sales": "676.24"
+}, {
+  "Customer_ID": "EB-13705",
+  "Year": "2015",
+  "Total_Sales": "120.75999999999999"
+}, {
+  "Customer_ID": "EB-13705",
+  "Year": "2016",
+  "Total_Sales": "21.07"
+}, {
+  "Customer_ID": "EB-13705",
+  "Year": "2017",
+  "Total_Sales": "41.47"
+}, {
+  "Customer_ID": "EB-13750",
+  "Year": "2017",
+  "Total_Sales": "341.96"
+}, {
+  "Customer_ID": "EB-13870",
+  "Year": "2014",
+  "Total_Sales": "127.87"
+}, {
+  "Customer_ID": "EB-14170",
+  "Year": "2014",
+  "Total_Sales": "5.31"
+}, {
+  "Customer_ID": "EB-14170",
+  "Year": "2015",
+  "Total_Sales": "335.52"
+}, {
+  "Customer_ID": "EB-14170",
+  "Year": "2016",
+  "Total_Sales": "11.84"
+}, {
+  "Customer_ID": "ED-13885",
+  "Year": "2014",
+  "Total_Sales": "23.68"
+}, {
+  "Customer_ID": "ED-13885",
+  "Year": "2015",
+  "Total_Sales": "100.8"
+}, {
+  "Customer_ID": "ED-13885",
+  "Year": "2017",
+  "Total_Sales": "143.8"
+}, {
+  "Customer_ID": "EH-13945",
+  "Year": "2016",
+  "Total_Sales": "296.66999999999996"
+}, {
+  "Customer_ID": "EH-13990",
+  "Year": "2016",
+  "Total_Sales": "151.19"
+}, {
+  "Customer_ID": "EH-14185",
+  "Year": "2014",
+  "Total_Sales": "6.93"
+}, {
+  "Customer_ID": "EJ-13720",
+  "Year": "2014",
+  "Total_Sales": "92.86"
+}, {
+  "Customer_ID": "EM-13825",
+  "Year": "2016",
+  "Total_Sales": "21.2"
+}, {
+  "Customer_ID": "EM-13825",
+  "Year": "2017",
+  "Total_Sales": "492.77"
+}, {
+  "Customer_ID": "EM-14065",
+  "Year": "2017",
+  "Total_Sales": "30.34"
+}, {
+  "Customer_ID": "EM-14200",
+  "Year": "2017",
+  "Total_Sales": "298.12"
+}, {
+  "Customer_ID": "EN-13780",
+  "Year": "2017",
+  "Total_Sales": "23.83"
+}, {
+  "Customer_ID": "EP-13915",
+  "Year": "2016",
+  "Total_Sales": "188.11"
+}, {
+  "Customer_ID": "ES-14020",
+  "Year": "2015",
+  "Total_Sales": "117.46"
+}, {
+  "Customer_ID": "FA-14230",
+  "Year": "2015",
+  "Total_Sales": "80.88"
+}, {
+  "Customer_ID": "FC-14335",
+  "Year": "2017",
+  "Total_Sales": "5.18"
+}, {
+  "Customer_ID": "FH-14275",
+  "Year": "2017",
+  "Total_Sales": "871.03"
+}, {
+  "Customer_ID": "FM-14290",
+  "Year": "2017",
+  "Total_Sales": "65.84"
+}, {
+  "Customer_ID": "FM-14380",
+  "Year": "2015",
+  "Total_Sales": "307.17"
+}, {
+  "Customer_ID": "FO-14305",
+  "Year": "2017",
+  "Total_Sales": "200.47000000000003"
+}, {
+  "Customer_ID": "FP-14320",
+  "Year": "2015",
+  "Total_Sales": "1061.33"
+}, {
+  "Customer_ID": "GA-14515",
+  "Year": "2014",
+  "Total_Sales": "3.98"
+}, {
+  "Customer_ID": "GA-14515",
+  "Year": "2016",
+  "Total_Sales": "675.41"
+}, {
+  "Customer_ID": "GA-14725",
+  "Year": "2017",
+  "Total_Sales": "160.15999999999997"
+}, {
+  "Customer_ID": "GB-14530",
+  "Year": "2016",
+  "Total_Sales": "18.72"
+}, {
+  "Customer_ID": "GH-14410",
+  "Year": "2016",
+  "Total_Sales": "91.23"
+}, {
+  "Customer_ID": "GH-14485",
+  "Year": "2015",
+  "Total_Sales": "72.78"
+}, {
+  "Customer_ID": "GH-14485",
+  "Year": "2016",
+  "Total_Sales": "190.92"
+}, {
+  "Customer_ID": "GH-14665",
+  "Year": "2017",
+  "Total_Sales": "106.02"
+}, {
+  "Customer_ID": "GK-14620",
+  "Year": "2015",
+  "Total_Sales": "479.99"
+}, {
+  "Customer_ID": "GK-14620",
+  "Year": "2017",
+  "Total_Sales": "9.86"
+}, {
+  "Customer_ID": "GM-14455",
+  "Year": "2014",
+  "Total_Sales": "758.35"
+}, {
+  "Customer_ID": "GM-14455",
+  "Year": "2016",
+  "Total_Sales": "158.37"
+}, {
+  "Customer_ID": "GM-14500",
+  "Year": "2017",
+  "Total_Sales": "124.4"
+}, {
+  "Customer_ID": "GT-14710",
+  "Year": "2017",
+  "Total_Sales": "1089.25"
+}, {
+  "Customer_ID": "GT-14755",
+  "Year": "2017",
+  "Total_Sales": "79.34"
+}, {
+  "Customer_ID": "GW-14605",
+  "Year": "2014",
+  "Total_Sales": "513.86"
+}, {
+  "Customer_ID": "GZ-14470",
+  "Year": "2014",
+  "Total_Sales": "489.23"
+}, {
+  "Customer_ID": "HA-14920",
+  "Year": "2016",
+  "Total_Sales": "362.34999999999997"
+}, {
+  "Customer_ID": "HG-14845",
+  "Year": "2017",
+  "Total_Sales": "348.92"
+}, {
+  "Customer_ID": "HG-14965",
+  "Year": "2014",
+  "Total_Sales": "0.88"
+}, {
+  "Customer_ID": "HG-15025",
+  "Year": "2014",
+  "Total_Sales": "3.16"
+}, {
+  "Customer_ID": "HG-15025",
+  "Year": "2016",
+  "Total_Sales": "107.86000000000001"
+}, {
+  "Customer_ID": "HK-14890",
+  "Year": "2017",
+  "Total_Sales": "337.71000000000004"
+}, {
+  "Customer_ID": "HL-15040",
+  "Year": "2016",
+  "Total_Sales": "15.65"
+}, {
+  "Customer_ID": "HM-14860",
+  "Year": "2014",
+  "Total_Sales": "751.87999999999988"
+}, {
+  "Customer_ID": "HM-14860",
+  "Year": "2017",
+  "Total_Sales": "3.32"
+}, {
+  "Customer_ID": "HP-14815",
+  "Year": "2015",
+  "Total_Sales": "71.350000000000009"
+}, {
+  "Customer_ID": "HZ-14950",
+  "Year": "2017",
+  "Total_Sales": "120.6"
+}, {
+  "Customer_ID": "IL-15100",
+  "Year": "2016",
+  "Total_Sales": "181.43"
+}, {
+  "Customer_ID": "JB-15925",
+  "Year": "2015",
+  "Total_Sales": "22.37"
+}, {
+  "Customer_ID": "JB-16000",
+  "Year": "2017",
+  "Total_Sales": "327.73"
+}, {
+  "Customer_ID": "JC-15775",
+  "Year": "2017",
+  "Total_Sales": "470.38"
+}, {
+  "Customer_ID": "JD-15790",
+  "Year": "2017",
+  "Total_Sales": "50.78"
+}, {
+  "Customer_ID": "JD-16060",
+  "Year": "2015",
+  "Total_Sales": "107.77"
+}, {
+  "Customer_ID": "JE-15475",
+  "Year": "2016",
+  "Total_Sales": "60.45"
+}, {
+  "Customer_ID": "JE-15715",
+  "Year": "2014",
+  "Total_Sales": "38.06"
+}, {
+  "Customer_ID": "JE-15715",
+  "Year": "2015",
+  "Total_Sales": "186.67"
+}, {
+  "Customer_ID": "JE-15745",
+  "Year": "2014",
+  "Total_Sales": "19.3"
+}, {
+  "Customer_ID": "JE-15745",
+  "Year": "2015",
+  "Total_Sales": "263.88"
+}, {
+  "Customer_ID": "JF-15295",
+  "Year": "2017",
+  "Total_Sales": "109.21"
+}, {
+  "Customer_ID": "JF-15355",
+  "Year": "2017",
+  "Total_Sales": "73.56"
+}, {
+  "Customer_ID": "JF-15565",
+  "Year": "2016",
+  "Total_Sales": "171.2"
+}, {
+  "Customer_ID": "JG-15160",
+  "Year": "2015",
+  "Total_Sales": "769.02"
+}, {
+  "Customer_ID": "JG-15310",
+  "Year": "2016",
+  "Total_Sales": "606.20999999999992"
+}, {
+  "Customer_ID": "JG-15310",
+  "Year": "2017",
+  "Total_Sales": "13.76"
+}, {
+  "Customer_ID": "JG-15805",
+  "Year": "2014",
+  "Total_Sales": "107.44"
+}, {
+  "Customer_ID": "JH-15910",
+  "Year": "2017",
+  "Total_Sales": "54.37"
+}, {
+  "Customer_ID": "JJ-15760",
+  "Year": "2015",
+  "Total_Sales": "119.96"
+}, {
+  "Customer_ID": "JK-15325",
+  "Year": "2014",
+  "Total_Sales": "269.59"
+}, {
+  "Customer_ID": "JK-15730",
+  "Year": "2015",
+  "Total_Sales": "21.369999999999997"
+}, {
+  "Customer_ID": "JK-15730",
+  "Year": "2017",
+  "Total_Sales": "4.24"
+}, {
+  "Customer_ID": "JK-16120",
+  "Year": "2017",
+  "Total_Sales": "124.9"
+}, {
+  "Customer_ID": "JL-15130",
+  "Year": "2014",
+  "Total_Sales": "34.75"
+}, {
+  "Customer_ID": "JL-15505",
+  "Year": "2017",
+  "Total_Sales": "50.14"
+}, {
+  "Customer_ID": "JL-15850",
+  "Year": "2014",
+  "Total_Sales": "26.63"
+}, {
+  "Customer_ID": "JM-15250",
+  "Year": "2017",
+  "Total_Sales": "954.9"
+}, {
+  "Customer_ID": "JM-15865",
+  "Year": "2016",
+  "Total_Sales": "345.33"
+}, {
+  "Customer_ID": "JP-15460",
+  "Year": "2016",
+  "Total_Sales": "15.55"
+}, {
+  "Customer_ID": "JP-15460",
+  "Year": "2017",
+  "Total_Sales": "248.48"
+}, {
+  "Customer_ID": "JP-15520",
+  "Year": "2015",
+  "Total_Sales": "14.3"
+}, {
+  "Customer_ID": "JS-15880",
+  "Year": "2016",
+  "Total_Sales": "611.89"
+}, {
+  "Customer_ID": "JS-15940",
+  "Year": "2014",
+  "Total_Sales": "8.54"
+}, {
+  "Customer_ID": "JS-16030",
+  "Year": "2017",
+  "Total_Sales": "303.37"
+}, {
+  "Customer_ID": "KB-16240",
+  "Year": "2017",
+  "Total_Sales": "16.03"
+}, {
+  "Customer_ID": "KB-16585",
+  "Year": "2014",
+  "Total_Sales": "15.55"
+}, {
+  "Customer_ID": "KB-16585",
+  "Year": "2016",
+  "Total_Sales": "130.33"
+}, {
+  "Customer_ID": "KB-16600",
+  "Year": "2017",
+  "Total_Sales": "38.2"
+}, {
+  "Customer_ID": "KC-16540",
+  "Year": "2016",
+  "Total_Sales": "2.3"
+}, {
+  "Customer_ID": "KD-16270",
+  "Year": "2014",
+  "Total_Sales": "742.51"
+}, {
+  "Customer_ID": "KD-16495",
+  "Year": "2016",
+  "Total_Sales": "6.92"
+}, {
+  "Customer_ID": "KE-16420",
+  "Year": "2015",
+  "Total_Sales": "47.97"
+}, {
+  "Customer_ID": "KE-16420",
+  "Year": "2017",
+  "Total_Sales": "267.79"
+}, {
+  "Customer_ID": "KH-16360",
+  "Year": "2014",
+  "Total_Sales": "186.9"
+}, {
+  "Customer_ID": "KH-16510",
+  "Year": "2014",
+  "Total_Sales": "30.96"
+}, {
+  "Customer_ID": "KH-16510",
+  "Year": "2017",
+  "Total_Sales": "65.72999999999999"
+}, {
+  "Customer_ID": "KH-16630",
+  "Year": "2016",
+  "Total_Sales": "15.71"
+}, {
+  "Customer_ID": "KH-16630",
+  "Year": "2017",
+  "Total_Sales": "6.67"
+}, {
+  "Customer_ID": "KL-16555",
+  "Year": "2014",
+  "Total_Sales": "906.43000000000006"
+}, {
+  "Customer_ID": "KL-16645",
+  "Year": "2017",
+  "Total_Sales": "70.15"
+}, {
+  "Customer_ID": "KM-16375",
+  "Year": "2014",
+  "Total_Sales": "359.6"
+}, {
+  "Customer_ID": "KM-16375",
+  "Year": "2015",
+  "Total_Sales": "228.92"
+}, {
+  "Customer_ID": "KM-16720",
+  "Year": "2014",
+  "Total_Sales": "697.08"
+}, {
+  "Customer_ID": "KN-16390",
+  "Year": "2017",
+  "Total_Sales": "68.72"
+}, {
+  "Customer_ID": "KN-16450",
+  "Year": "2015",
+  "Total_Sales": "48.63"
+}, {
+  "Customer_ID": "KN-16705",
+  "Year": "2015",
+  "Total_Sales": "100.86"
+}, {
+  "Customer_ID": "KT-16465",
+  "Year": "2014",
+  "Total_Sales": "1166.71"
+}, {
+  "Customer_ID": "KT-16480",
+  "Year": "2016",
+  "Total_Sales": "1020.8900000000001"
+}, {
+  "Customer_ID": "KT-16480",
+  "Year": "2017",
+  "Total_Sales": "204.67"
+}, {
+  "Customer_ID": "KW-16435",
+  "Year": "2015",
+  "Total_Sales": "2.77"
+}, {
+  "Customer_ID": "LA-16780",
+  "Year": "2016",
+  "Total_Sales": "921.03"
+}, {
+  "Customer_ID": "LA-16780",
+  "Year": "2017",
+  "Total_Sales": "127.69000000000001"
+}, {
+  "Customer_ID": "LB-16735",
+  "Year": "2017",
+  "Total_Sales": "1.99"
+}, {
+  "Customer_ID": "LC-16930",
+  "Year": "2016",
+  "Total_Sales": "1184.7"
+}, {
+  "Customer_ID": "LC-16930",
+  "Year": "2017",
+  "Total_Sales": "305.31"
+}, {
+  "Customer_ID": "LC-17050",
+  "Year": "2017",
+  "Total_Sales": "30.56"
+}, {
+  "Customer_ID": "LC-17140",
+  "Year": "2016",
+  "Total_Sales": "117.96000000000001"
+}, {
+  "Customer_ID": "LC-17140",
+  "Year": "2017",
+  "Total_Sales": "66.28"
+}, {
+  "Customer_ID": "LF-17185",
+  "Year": "2014",
+  "Total_Sales": "503.12"
+}, {
+  "Customer_ID": "LH-17020",
+  "Year": "2014",
+  "Total_Sales": "51.18"
+}, {
+  "Customer_ID": "LH-17155",
+  "Year": "2016",
+  "Total_Sales": "492.28000000000003"
+}, {
+  "Customer_ID": "LR-17035",
+  "Year": "2016",
+  "Total_Sales": "548.0"
+}, {
+  "Customer_ID": "LS-16945",
+  "Year": "2017",
+  "Total_Sales": "396.39"
+}, {
+  "Customer_ID": "LS-16975",
+  "Year": "2015",
+  "Total_Sales": "8.42"
+}, {
+  "Customer_ID": "LS-16975",
+  "Year": "2016",
+  "Total_Sales": "9.26"
+}, {
+  "Customer_ID": "LS-16975",
+  "Year": "2017",
+  "Total_Sales": "256.35"
+}, {
+  "Customer_ID": "LS-17230",
+  "Year": "2015",
+  "Total_Sales": "253.34"
+}, {
+  "Customer_ID": "LS-17245",
+  "Year": "2016",
+  "Total_Sales": "173.49"
+}, {
+  "Customer_ID": "LT-17110",
+  "Year": "2016",
+  "Total_Sales": "628.94"
+}, {
+  "Customer_ID": "LW-16825",
+  "Year": "2017",
+  "Total_Sales": "20.64"
+}, {
+  "Customer_ID": "MA-17560",
+  "Year": "2016",
+  "Total_Sales": "14.89"
+}, {
+  "Customer_ID": "MA-17560",
+  "Year": "2017",
+  "Total_Sales": "29.47"
+}, {
+  "Customer_ID": "MB-17305",
+  "Year": "2017",
+  "Total_Sales": "321.2"
+}, {
+  "Customer_ID": "MB-18085",
+  "Year": "2016",
+  "Total_Sales": "19.14"
+}, {
+  "Customer_ID": "MC-17425",
+  "Year": "2016",
+  "Total_Sales": "9.55"
+}, {
+  "Customer_ID": "MC-17590",
+  "Year": "2014",
+  "Total_Sales": "163.32999999999998"
+}, {
+  "Customer_ID": "MC-17605",
+  "Year": "2014",
+  "Total_Sales": "674.06"
+}, {
+  "Customer_ID": "MC-17845",
+  "Year": "2016",
+  "Total_Sales": "358.54999999999995"
+}, {
+  "Customer_ID": "MC-18100",
+  "Year": "2014",
+  "Total_Sales": "803.95999999999992"
+}, {
+  "Customer_ID": "MC-18100",
+  "Year": "2015",
+  "Total_Sales": "31.78"
+}, {
+  "Customer_ID": "MD-17860",
+  "Year": "2014",
+  "Total_Sales": "114.78"
+}, {
+  "Customer_ID": "ME-17320",
+  "Year": "2015",
+  "Total_Sales": "5.79"
+}, {
+  "Customer_ID": "ME-17320",
+  "Year": "2017",
+  "Total_Sales": "9.32"
+}, {
+  "Customer_ID": "ME-17725",
+  "Year": "2017",
+  "Total_Sales": "738.69999999999993"
+}, {
+  "Customer_ID": "ME-18010",
+  "Year": "2014",
+  "Total_Sales": "5.18"
+}, {
+  "Customer_ID": "MF-18250",
+  "Year": "2015",
+  "Total_Sales": "304.21999999999997"
+}, {
+  "Customer_ID": "MG-17650",
+  "Year": "2017",
+  "Total_Sales": "379.91"
+}, {
+  "Customer_ID": "MG-17875",
+  "Year": "2014",
+  "Total_Sales": "11.370000000000001"
+}, {
+  "Customer_ID": "MH-17440",
+  "Year": "2016",
+  "Total_Sales": "241.5"
+}, {
+  "Customer_ID": "MH-17620",
+  "Year": "2016",
+  "Total_Sales": "6.82"
+}, {
+  "Customer_ID": "MH-17785",
+  "Year": "2017",
+  "Total_Sales": "9.25"
+}, {
+  "Customer_ID": "MH-18115",
+  "Year": "2016",
+  "Total_Sales": "1416.3099999999997"
+}, {
+  "Customer_ID": "ML-18040",
+  "Year": "2017",
+  "Total_Sales": "6.37"
+}, {
+  "Customer_ID": "MM-17920",
+  "Year": "2017",
+  "Total_Sales": "57.980000000000004"
+}, {
+  "Customer_ID": "MM-18280",
+  "Year": "2015",
+  "Total_Sales": "262.71999999999997"
+}, {
+  "Customer_ID": "MN-17935",
+  "Year": "2014",
+  "Total_Sales": "595.38000000000011"
+}, {
+  "Customer_ID": "MO-17500",
+  "Year": "2016",
+  "Total_Sales": "59.75"
+}, {
+  "Customer_ID": "MO-17800",
+  "Year": "2015",
+  "Total_Sales": "206.96"
+}, {
+  "Customer_ID": "MO-17950",
+  "Year": "2015",
+  "Total_Sales": "130.29"
+}, {
+  "Customer_ID": "MP-17470",
+  "Year": "2014",
+  "Total_Sales": "714.96"
+}, {
+  "Customer_ID": "MP-17965",
+  "Year": "2015",
+  "Total_Sales": "544.41000000000008"
+}, {
+  "Customer_ID": "MR-17545",
+  "Year": "2014",
+  "Total_Sales": "7.68"
+}, {
+  "Customer_ID": "MS-17710",
+  "Year": "2016",
+  "Total_Sales": "477.14"
+}, {
+  "Customer_ID": "MS-17770",
+  "Year": "2016",
+  "Total_Sales": "279.94"
+}, {
+  "Customer_ID": "MS-17830",
+  "Year": "2014",
+  "Total_Sales": "40.54"
+}, {
+  "Customer_ID": "MS-17980",
+  "Year": "2014",
+  "Total_Sales": "47.230000000000004"
+}, {
+  "Customer_ID": "MS-17980",
+  "Year": "2015",
+  "Total_Sales": "48.019999999999996"
+}, {
+  "Customer_ID": "MT-17815",
+  "Year": "2016",
+  "Total_Sales": "34.05"
+}, {
+  "Customer_ID": "MT-18070",
+  "Year": "2014",
+  "Total_Sales": "340.29999999999995"
+}, {
+  "Customer_ID": "MT-18070",
+  "Year": "2015",
+  "Total_Sales": "3.59"
+}, {
+  "Customer_ID": "MV-17485",
+  "Year": "2015",
+  "Total_Sales": "128.92"
+}, {
+  "Customer_ID": "MV-17485",
+  "Year": "2017",
+  "Total_Sales": "13.59"
+}, {
+  "Customer_ID": "MV-18190",
+  "Year": "2015",
+  "Total_Sales": "31.92"
+}, {
+  "Customer_ID": "MY-17380",
+  "Year": "2017",
+  "Total_Sales": "10.37"
+}, {
+  "Customer_ID": "MY-18295",
+  "Year": "2016",
+  "Total_Sales": "1405.03"
+}, {
+  "Customer_ID": "MZ-17515",
+  "Year": "2016",
+  "Total_Sales": "22.15"
+}, {
+  "Customer_ID": "NB-18655",
+  "Year": "2016",
+  "Total_Sales": "385.28999999999996"
+}, {
+  "Customer_ID": "NC-18340",
+  "Year": "2014",
+  "Total_Sales": "43.31"
+}, {
+  "Customer_ID": "NC-18415",
+  "Year": "2014",
+  "Total_Sales": "4.98"
+}, {
+  "Customer_ID": "NC-18415",
+  "Year": "2017",
+  "Total_Sales": "204.1"
+}, {
+  "Customer_ID": "NC-18535",
+  "Year": "2016",
+  "Total_Sales": "58.42"
+}, {
+  "Customer_ID": "NC-18625",
+  "Year": "2015",
+  "Total_Sales": "167.24"
+}, {
+  "Customer_ID": "NC-18625",
+  "Year": "2017",
+  "Total_Sales": "720.76"
+}, {
+  "Customer_ID": "ND-18370",
+  "Year": "2017",
+  "Total_Sales": "61.489999999999995"
+}, {
+  "Customer_ID": "NF-18385",
+  "Year": "2016",
+  "Total_Sales": "85.91"
+}, {
+  "Customer_ID": "NG-18430",
+  "Year": "2017",
+  "Total_Sales": "779.17"
+}, {
+  "Customer_ID": "NH-18610",
+  "Year": "2016",
+  "Total_Sales": "15.94"
+}, {
+  "Customer_ID": "NK-18490",
+  "Year": "2017",
+  "Total_Sales": "74.35"
+}, {
+  "Customer_ID": "NM-18520",
+  "Year": "2015",
+  "Total_Sales": "6.69"
+}, {
+  "Customer_ID": "NM-18520",
+  "Year": "2016",
+  "Total_Sales": "49.0"
+}, {
+  "Customer_ID": "NR-18550",
+  "Year": "2016",
+  "Total_Sales": "366.74"
+}, {
+  "Customer_ID": "NS-18505",
+  "Year": "2016",
+  "Total_Sales": "527.22"
+}, {
+  "Customer_ID": "NS-18505",
+  "Year": "2017",
+  "Total_Sales": "264.32"
+}, {
+  "Customer_ID": "NS-18640",
+  "Year": "2015",
+  "Total_Sales": "473.4"
+}, {
+  "Customer_ID": "NS-18640",
+  "Year": "2016",
+  "Total_Sales": "73.78"
+}, {
+  "Customer_ID": "NZ-18565",
+  "Year": "2017",
+  "Total_Sales": "151.06"
+}, {
+  "Customer_ID": "ON-18715",
+  "Year": "2015",
+  "Total_Sales": "47.370000000000005"
+}, {
+  "Customer_ID": "PA-19060",
+  "Year": "2017",
+  "Total_Sales": "114.85"
+}, {
+  "Customer_ID": "PB-19105",
+  "Year": "2014",
+  "Total_Sales": "604.66"
+}, {
+  "Customer_ID": "PF-19120",
+  "Year": "2015",
+  "Total_Sales": "847.2"
+}, {
+  "Customer_ID": "PG-18820",
+  "Year": "2015",
+  "Total_Sales": "329.96"
+}, {
+  "Customer_ID": "PG-18820",
+  "Year": "2017",
+  "Total_Sales": "35.18"
+}, {
+  "Customer_ID": "PG-18895",
+  "Year": "2014",
+  "Total_Sales": "225.01"
+}, {
+  "Customer_ID": "PJ-18835",
+  "Year": "2016",
+  "Total_Sales": "9.25"
+}, {
+  "Customer_ID": "PM-18940",
+  "Year": "2015",
+  "Total_Sales": "301.74"
+}, {
+  "Customer_ID": "PM-19135",
+  "Year": "2016",
+  "Total_Sales": "60.14"
+}, {
+  "Customer_ID": "PO-18850",
+  "Year": "2014",
+  "Total_Sales": "88.78"
+}, {
+  "Customer_ID": "PO-18850",
+  "Year": "2015",
+  "Total_Sales": "614.0"
+}, {
+  "Customer_ID": "PO-18850",
+  "Year": "2017",
+  "Total_Sales": "517.41"
+}, {
+  "Customer_ID": "PO-19180",
+  "Year": "2017",
+  "Total_Sales": "24.049999999999997"
+}, {
+  "Customer_ID": "PS-18760",
+  "Year": "2014",
+  "Total_Sales": "36.54"
+}, {
+  "Customer_ID": "PS-18760",
+  "Year": "2015",
+  "Total_Sales": "610.16000000000008"
+}, {
+  "Customer_ID": "PT-19090",
+  "Year": "2014",
+  "Total_Sales": "5.18"
+}, {
+  "Customer_ID": "PT-19090",
+  "Year": "2016",
+  "Total_Sales": "93.46"
+}, {
+  "Customer_ID": "PV-18985",
+  "Year": "2014",
+  "Total_Sales": "554.17000000000007"
+}, {
+  "Customer_ID": "PW-19240",
+  "Year": "2015",
+  "Total_Sales": "408.42"
+}, {
+  "Customer_ID": "RA-19285",
+  "Year": "2014",
+  "Total_Sales": "2.92"
+}, {
+  "Customer_ID": "RA-19915",
+  "Year": "2015",
+  "Total_Sales": "44.66"
+}, {
+  "Customer_ID": "RA-19915",
+  "Year": "2017",
+  "Total_Sales": "228.18"
+}, {
+  "Customer_ID": "RA-19945",
+  "Year": "2017",
+  "Total_Sales": "321.39"
+}, {
+  "Customer_ID": "RB-19330",
+  "Year": "2017",
+  "Total_Sales": "337.82"
+}, {
+  "Customer_ID": "RB-19435",
+  "Year": "2015",
+  "Total_Sales": "32.78"
+}, {
+  "Customer_ID": "RB-19705",
+  "Year": "2015",
+  "Total_Sales": "275.06"
+}, {
+  "Customer_ID": "RC-19960",
+  "Year": "2016",
+  "Total_Sales": "99.57"
+}, {
+  "Customer_ID": "RD-19480",
+  "Year": "2017",
+  "Total_Sales": "16.68"
+}, {
+  "Customer_ID": "RD-19585",
+  "Year": "2017",
+  "Total_Sales": "167.97"
+}, {
+  "Customer_ID": "RD-19810",
+  "Year": "2016",
+  "Total_Sales": "168.17000000000002"
+}, {
+  "Customer_ID": "RD-19930",
+  "Year": "2014",
+  "Total_Sales": "57.91"
+}, {
+  "Customer_ID": "RD-19930",
+  "Year": "2017",
+  "Total_Sales": "106.11"
+}, {
+  "Customer_ID": "RE-19450",
+  "Year": "2017",
+  "Total_Sales": "26.88"
+}, {
+  "Customer_ID": "RF-19840",
+  "Year": "2014",
+  "Total_Sales": "49.63"
+}, {
+  "Customer_ID": "RM-19375",
+  "Year": "2014",
+  "Total_Sales": "46.86"
+}, {
+  "Customer_ID": "RO-19780",
+  "Year": "2017",
+  "Total_Sales": "1240.4199999999998"
+}, {
+  "Customer_ID": "RP-19270",
+  "Year": "2015",
+  "Total_Sales": "467.65"
+}, {
+  "Customer_ID": "RP-19390",
+  "Year": "2017",
+  "Total_Sales": "5.62"
+}, {
+  "Customer_ID": "RP-19855",
+  "Year": "2017",
+  "Total_Sales": "12.16"
+}, {
+  "Customer_ID": "RS-19765",
+  "Year": "2017",
+  "Total_Sales": "0.56"
+}, {
+  "Customer_ID": "RW-19630",
+  "Year": "2016",
+  "Total_Sales": "162.34"
+}, {
+  "Customer_ID": "SC-20020",
+  "Year": "2014",
+  "Total_Sales": "1590.51"
+}, {
+  "Customer_ID": "SC-20050",
+  "Year": "2017",
+  "Total_Sales": "23.009999999999998"
+}, {
+  "Customer_ID": "SC-20230",
+  "Year": "2016",
+  "Total_Sales": "911.26"
+}, {
+  "Customer_ID": "SC-20260",
+  "Year": "2014",
+  "Total_Sales": "31.41"
+}, {
+  "Customer_ID": "SC-20260",
+  "Year": "2017",
+  "Total_Sales": "33.62"
+}, {
+  "Customer_ID": "SC-20305",
+  "Year": "2014",
+  "Total_Sales": "328.59000000000003"
+}, {
+  "Customer_ID": "SC-20380",
+  "Year": "2014",
+  "Total_Sales": "574.18999999999994"
+}, {
+  "Customer_ID": "SC-20380",
+  "Year": "2016",
+  "Total_Sales": "15.62"
+}, {
+  "Customer_ID": "SC-20695",
+  "Year": "2017",
+  "Total_Sales": "37.2"
+}, {
+  "Customer_ID": "SC-20725",
+  "Year": "2014",
+  "Total_Sales": "725.33"
+}, {
+  "Customer_ID": "SC-20725",
+  "Year": "2015",
+  "Total_Sales": "2.08"
+}, {
+  "Customer_ID": "SC-20770",
+  "Year": "2017",
+  "Total_Sales": "769.1"
+}, {
+  "Customer_ID": "SC-20800",
+  "Year": "2015",
+  "Total_Sales": "206.32"
+}, {
+  "Customer_ID": "SC-20800",
+  "Year": "2017",
+  "Total_Sales": "2.37"
+}, {
+  "Customer_ID": "SD-20485",
+  "Year": "2015",
+  "Total_Sales": "20.96"
+}, {
+  "Customer_ID": "SD-20485",
+  "Year": "2017",
+  "Total_Sales": "20.74"
+}, {
+  "Customer_ID": "SE-20110",
+  "Year": "2017",
+  "Total_Sales": "5.95"
+}, {
+  "Customer_ID": "SF-20065",
+  "Year": "2015",
+  "Total_Sales": "45.04"
+}, {
+  "Customer_ID": "SF-20965",
+  "Year": "2015",
+  "Total_Sales": "38.900000000000006"
+}, {
+  "Customer_ID": "SF-20965",
+  "Year": "2017",
+  "Total_Sales": "205.28000000000003"
+}, {
+  "Customer_ID": "SG-20890",
+  "Year": "2016",
+  "Total_Sales": "19.65"
+}, {
+  "Customer_ID": "SG-20890",
+  "Year": "2017",
+  "Total_Sales": "17.8"
+}, {
+  "Customer_ID": "SH-19975",
+  "Year": "2017",
+  "Total_Sales": "48.91"
+}, {
+  "Customer_ID": "SJ-20125",
+  "Year": "2016",
+  "Total_Sales": "183.17"
+}, {
+  "Customer_ID": "SJ-20125",
+  "Year": "2017",
+  "Total_Sales": "1749.8999999999999"
+}, {
+  "Customer_ID": "SJ-20215",
+  "Year": "2017",
+  "Total_Sales": "536.86"
+}, {
+  "Customer_ID": "SJ-20500",
+  "Year": "2017",
+  "Total_Sales": "97.26"
+}, {
+  "Customer_ID": "SL-20155",
+  "Year": "2015",
+  "Total_Sales": "41.57"
+}, {
+  "Customer_ID": "SM-20005",
+  "Year": "2016",
+  "Total_Sales": "77.49"
+}, {
+  "Customer_ID": "SN-20710",
+  "Year": "2015",
+  "Total_Sales": "1228.96"
+}, {
+  "Customer_ID": "SN-20710",
+  "Year": "2016",
+  "Total_Sales": "329.98"
+}, {
+  "Customer_ID": "SP-20620",
+  "Year": "2014",
+  "Total_Sales": "609.61"
+}, {
+  "Customer_ID": "SP-20860",
+  "Year": "2017",
+  "Total_Sales": "39.98"
+}, {
+  "Customer_ID": "SR-20740",
+  "Year": "2016",
+  "Total_Sales": "10.27"
+}, {
+  "Customer_ID": "SS-20140",
+  "Year": "2014",
+  "Total_Sales": "46.089999999999996"
+}, {
+  "Customer_ID": "SS-20875",
+  "Year": "2016",
+  "Total_Sales": "114.84"
+}, {
+  "Customer_ID": "ST-20530",
+  "Year": "2014",
+  "Total_Sales": "16.18"
+}, {
+  "Customer_ID": "SV-20365",
+  "Year": "2014",
+  "Total_Sales": "1190.53"
+}, {
+  "Customer_ID": "SV-20815",
+  "Year": "2015",
+  "Total_Sales": "156.13"
+}, {
+  "Customer_ID": "SV-20935",
+  "Year": "2016",
+  "Total_Sales": "15.58"
+}, {
+  "Customer_ID": "SZ-20035",
+  "Year": "2014",
+  "Total_Sales": "469.05"
+}, {
+  "Customer_ID": "SZ-20035",
+  "Year": "2017",
+  "Total_Sales": "23.68"
+}, {
+  "Customer_ID": "TB-21175",
+  "Year": "2014",
+  "Total_Sales": "60.42"
+}, {
+  "Customer_ID": "TB-21250",
+  "Year": "2017",
+  "Total_Sales": "147.63"
+}, {
+  "Customer_ID": "TB-21355",
+  "Year": "2016",
+  "Total_Sales": "94.08"
+}, {
+  "Customer_ID": "TB-21355",
+  "Year": "2017",
+  "Total_Sales": "115.3"
+}, {
+  "Customer_ID": "TB-21520",
+  "Year": "2014",
+  "Total_Sales": "130.76"
+}, {
+  "Customer_ID": "TB-21595",
+  "Year": "2014",
+  "Total_Sales": "25.16"
+}, {
+  "Customer_ID": "TB-21625",
+  "Year": "2015",
+  "Total_Sales": "18.42"
+}, {
+  "Customer_ID": "TC-20980",
+  "Year": "2014",
+  "Total_Sales": "100.39999999999999"
+}, {
+  "Customer_ID": "TC-21295",
+  "Year": "2017",
+  "Total_Sales": "21.99"
+}, {
+  "Customer_ID": "TD-20995",
+  "Year": "2017",
+  "Total_Sales": "28.78"
+}, {
+  "Customer_ID": "TH-21115",
+  "Year": "2016",
+  "Total_Sales": "2027.19"
+}, {
+  "Customer_ID": "TH-21235",
+  "Year": "2017",
+  "Total_Sales": "490.4"
+}, {
+  "Customer_ID": "TP-21130",
+  "Year": "2016",
+  "Total_Sales": "23.97"
+}, {
+  "Customer_ID": "TP-21415",
+  "Year": "2016",
+  "Total_Sales": "179.53"
+}, {
+  "Customer_ID": "TP-21415",
+  "Year": "2017",
+  "Total_Sales": "397.73"
+}, {
+  "Customer_ID": "TP-21565",
+  "Year": "2015",
+  "Total_Sales": "95.84"
+}, {
+  "Customer_ID": "TP-21565",
+  "Year": "2016",
+  "Total_Sales": "38.08"
+}, {
+  "Customer_ID": "TS-21340",
+  "Year": "2015",
+  "Total_Sales": "1.11"
+}, {
+  "Customer_ID": "TS-21655",
+  "Year": "2015",
+  "Total_Sales": "692.20999999999992"
+}, {
+  "Customer_ID": "TS-21655",
+  "Year": "2017",
+  "Total_Sales": "409.31"
+}, {
+  "Customer_ID": "TT-21220",
+  "Year": "2015",
+  "Total_Sales": "92.059999999999988"
+}, {
+  "Customer_ID": "TT-21220",
+  "Year": "2017",
+  "Total_Sales": "537.54"
+}, {
+  "Customer_ID": "TT-21460",
+  "Year": "2015",
+  "Total_Sales": "360.71"
+}, {
+  "Customer_ID": "TT-21460",
+  "Year": "2017",
+  "Total_Sales": "114.68"
+}, {
+  "Customer_ID": "VB-21745",
+  "Year": "2015",
+  "Total_Sales": "407.18"
+}, {
+  "Customer_ID": "VD-21670",
+  "Year": "2015",
+  "Total_Sales": "971.88"
+}, {
+  "Customer_ID": "VP-21760",
+  "Year": "2014",
+  "Total_Sales": "247.79"
+}, {
+  "Customer_ID": "VS-21820",
+  "Year": "2014",
+  "Total_Sales": "87.16"
+}, {
+  "Customer_ID": "VT-21700",
+  "Year": "2014",
+  "Total_Sales": "100.24"
+}, {
+  "Customer_ID": "VW-21775",
+  "Year": "2014",
+  "Total_Sales": "1212.96"
+}, {
+  "Customer_ID": "WB-21850",
+  "Year": "2014",
+  "Total_Sales": "84.87"
+}, {
+  "Customer_ID": "WB-21850",
+  "Year": "2016",
+  "Total_Sales": "30.39"
+}, {
+  "Customer_ID": "XP-21865",
+  "Year": "2017",
+  "Total_Sales": "212.98999999999998"
+}, {
+  "Customer_ID": "YC-21895",
+  "Year": "2016",
+  "Total_Sales": "371.5"
+}, {
+  "Customer_ID": "ZC-21910",
+  "Year": "2016",
+  "Total_Sales": "527.91"
+}, {
+  "Customer_ID": "ZC-21910",
+  "Year": "2017",
+  "Total_Sales": "148.88"
+}]

@@ -20,67 +20,70 @@
           <li><a href="form.html">Contact Us</a></li>
         </ul>
       </nav>
+      <a href="tabel.html" class="btnn">
+        CHECK DATA <i class="fas fa-chevron-right"></i>
+      </a>
       <main>
         <div></div>
-
         <div class="container-card">
           <div class="card c1">
             <div class="card-header">
-              <h2>Chart 1</h2>
+              <h2>AOV</h2>
             </div>
             <div class="card-body">
-              <!-- Grafik akan ditambahkan di sini -->
+              <canvas id="aov"></canvas>
             </div>
             <div class="card-desc"></div>
           </div>
           <div class="card c2">
             <div class="card-header">
-              <h2>Chart 2</h2>
+              <h2>CUSTOMER GROWTH</h2>
             </div>
             <div class="card-body">
-              <!-- Grafik akan ditambahkan di sini -->
+              <canvas id="customerGrowthChart"></canvas>
             </div>
             <div class="card-desc"></div>
           </div>
           <div class="card c3">
             <div class="card-header">
-              <h2>Chart 3</h2>
+              <h2>CUSTOMER RETENTION</h2>
             </div>
             <div class="card-body">
-              <!-- Grafik akan ditambahkan di sini -->
+              <canvas id="customerretention"></canvas>
             </div>
             <div class="card-desc"></div>
           </div>
           <div class="card c4">
             <div class="card-header">
-              <h2>Chart 4</h2>
+              <h2>SALES PER CUSTOMER</h2>
             </div>
             <div class="card-body">
-              <!-- Grafik akan ditambahkan di sini -->
+              <canvas id="salespercustomer"></canvas>
             </div>
             <div class="card-desc"></div>
           </div>
           <div class="card c5">
             <div class="card-header">
-              <h2>Chart 5</h2>
+              <h2>PROFIT PER CATEGORY</h2>
             </div>
             <div class="card-body">
-              <!-- Grafik akan ditambahkan di sini -->
+              <canvas id="profit"></canvas>
             </div>
             <div class="card-desc"></div>
           </div>
           <div class="card c6">
             <div class="card-header">
-              <h2>Chart 6</h2>
+              <h2>QUANTITY PER YEAR</h2>
             </div>
             <div class="card-body">
-              <!-- Grafik akan ditambahkan di sini -->
+              <canvas id="quantity"></canvas>
             </div>
             <div class="card-desc"></div>
           </div>
           <!-- Tambahkan lebih banyak kartu jika diperlukan -->
         </div>
       </main>
+      <canvas id="chart"></canvas> 
     </div>
     <footer>
       <div class="footer">
@@ -95,4 +98,6 @@
       </div>
     </footer>
   </body>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="chart.js"></script>
 </html>
