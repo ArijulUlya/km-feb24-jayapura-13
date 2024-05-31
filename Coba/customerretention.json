@@ -1,0 +1,1809 @@
+[{
+  "customer_id": "AA-10315",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AB-10015",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AB-10105",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AB-10105",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "AB-10150",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AB-10150",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "AB-10255",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AC-10420",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AC-10615",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AC-10660",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AD-10180",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AF-10870",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AG-10330",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AG-10495",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AG-10525",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AG-10675",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AG-10675",
+  "order_year": "2016",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "AG-10900",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AH-10075",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AH-10120",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AH-10210",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AH-10465",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AH-10690",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AM-10360",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AP-10720",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AR-10345",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AR-10345",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "AR-10825",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AS-10045",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AS-10090",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AS-10285",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AS-10630",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AT-10735",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AW-10840",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AW-10930",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "AZ-10750",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "BB-10990",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "BB-11545",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "BB-11545",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "BC-11125",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "BD-11770",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "BE-11335",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "BF-11005",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "BF-11020",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "BF-11170",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "BF-11215",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "BG-11035",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "BG-11035",
+  "order_year": "2016",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "BG-11740",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "BM-11140",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "BM-11650",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "BM-11785",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "BP-11095",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "BP-11185",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "BT-11680",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "BW-11110",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CA-11965",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CA-12055",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CA-12055",
+  "order_year": "2016",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "CA-12265",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CA-12310",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CB-12025",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CB-12025",
+  "order_year": "2015",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "CB-12025",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "CC-12145",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CC-12145",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "CC-12220",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CC-12370",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CC-12475",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CC-12550",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CC-12610",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CC-12685",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CD-11980",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CG-12520",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CG-12520",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "CJ-12010",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CK-12205",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CK-12205",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "CM-11815",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CM-12160",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CM-12235",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CM-12445",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CM-12655",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CM-12715",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CM-12715",
+  "order_year": "2015",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "CR-12820",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CS-11845",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CS-11860",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CS-12130",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CS-12250",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CS-12490",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CT-11995",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CV-12805",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CV-12805",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "CW-11905",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "CY-12745",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DA-13450",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DB-12910",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DB-12970",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DB-13120",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DB-13210",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DB-13270",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DB-13270",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "DB-13555",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DB-13660",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DB-13660",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "DC-12850",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DC-12850",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "DD-13570",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DH-13075",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DK-12835",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DK-13090",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DK-13375",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DL-12865",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DM-12955",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DM-13015",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DM-13015",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "DM-13525",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DO-13645",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DP-13000",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DP-13000",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "DS-13180",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DS-13180",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "DW-13195",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DW-13540",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "DW-13540",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "Dl-13600",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "EA-14035",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "EB-13705",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "EB-13705",
+  "order_year": "2016",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "EB-13705",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "EB-13750",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "EB-13870",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "EB-14170",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "EB-14170",
+  "order_year": "2015",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "EB-14170",
+  "order_year": "2016",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "ED-13885",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "ED-13885",
+  "order_year": "2015",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "ED-13885",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "EH-13945",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "EH-13990",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "EH-14185",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "EJ-13720",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "EM-13825",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "EM-13825",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "EM-14065",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "EM-14200",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "EN-13780",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "EP-13915",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "ES-14020",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "FA-14230",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "FC-14335",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "FH-14275",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "FM-14290",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "FM-14380",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "FO-14305",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "FP-14320",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "GA-14515",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "GA-14515",
+  "order_year": "2016",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "GA-14725",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "GB-14530",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "GH-14410",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "GH-14485",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "GH-14485",
+  "order_year": "2016",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "GH-14665",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "GK-14620",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "GK-14620",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "GM-14455",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "GM-14455",
+  "order_year": "2016",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "GM-14500",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "GT-14710",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "GT-14755",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "GW-14605",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "GZ-14470",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "HA-14920",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "HG-14845",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "HG-14965",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "HG-15025",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "HG-15025",
+  "order_year": "2016",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "HK-14890",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "HL-15040",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "HM-14860",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "HM-14860",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "HP-14815",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "HZ-14950",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "IL-15100",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JB-15925",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JB-16000",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JC-15775",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JD-15790",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JD-16060",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JE-15475",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JE-15715",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JE-15715",
+  "order_year": "2015",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "JE-15745",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JE-15745",
+  "order_year": "2015",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "JF-15295",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JF-15355",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JF-15565",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JG-15160",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JG-15310",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JG-15310",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "JG-15805",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JH-15910",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JJ-15760",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JK-15325",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JK-15730",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JK-15730",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "JK-16120",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JL-15130",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JL-15505",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JL-15850",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JM-15250",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JM-15865",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JP-15460",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JP-15460",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "JP-15520",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JS-15880",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JS-15940",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "JS-16030",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KB-16240",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KB-16585",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KB-16585",
+  "order_year": "2016",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "KB-16600",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KC-16540",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KD-16270",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KD-16495",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KE-16420",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KE-16420",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "KH-16360",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KH-16510",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KH-16510",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "KH-16630",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KH-16630",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "KL-16555",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KL-16645",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KM-16375",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KM-16375",
+  "order_year": "2015",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "KM-16720",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KN-16390",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KN-16450",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KN-16705",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KT-16465",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KT-16480",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "KT-16480",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "KW-16435",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "LA-16780",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "LA-16780",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "LB-16735",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "LC-16930",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "LC-16930",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "LC-17050",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "LC-17140",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "LC-17140",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "LF-17185",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "LH-17020",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "LH-17155",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "LR-17035",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "LS-16945",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "LS-16975",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "LS-16975",
+  "order_year": "2016",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "LS-16975",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "LS-17230",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "LS-17245",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "LT-17110",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "LW-16825",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MA-17560",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MA-17560",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "MB-17305",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MB-18085",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MC-17425",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MC-17590",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MC-17605",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MC-17845",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MC-18100",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MC-18100",
+  "order_year": "2015",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "MD-17860",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "ME-17320",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "ME-17320",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "ME-17725",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "ME-18010",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MF-18250",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MG-17650",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MG-17875",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MH-17440",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MH-17620",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MH-17785",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MH-18115",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "ML-18040",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MM-17920",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MM-18280",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MN-17935",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MO-17500",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MO-17800",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MO-17950",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MP-17470",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MP-17965",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MR-17545",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MS-17710",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MS-17770",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MS-17830",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MS-17980",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MS-17980",
+  "order_year": "2015",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "MT-17815",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MT-18070",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MT-18070",
+  "order_year": "2015",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "MV-17485",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MV-17485",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "MV-18190",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MY-17380",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MY-18295",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "MZ-17515",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "NB-18655",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "NC-18340",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "NC-18415",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "NC-18415",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "NC-18535",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "NC-18625",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "NC-18625",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "ND-18370",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "NF-18385",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "NG-18430",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "NH-18610",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "NK-18490",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "NM-18520",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "NM-18520",
+  "order_year": "2016",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "NR-18550",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "NS-18505",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "NS-18505",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "NS-18640",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "NS-18640",
+  "order_year": "2016",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "NZ-18565",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "ON-18715",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "PA-19060",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "PB-19105",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "PF-19120",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "PG-18820",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "PG-18820",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "PG-18895",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "PJ-18835",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "PM-18940",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "PM-19135",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "PO-18850",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "PO-18850",
+  "order_year": "2015",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "PO-18850",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "PO-19180",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "PS-18760",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "PS-18760",
+  "order_year": "2015",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "PT-19090",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "PT-19090",
+  "order_year": "2016",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "PV-18985",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "PW-19240",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RA-19285",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RA-19915",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RA-19915",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "RA-19945",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RB-19330",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RB-19435",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RB-19705",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RC-19960",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RD-19480",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RD-19585",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RD-19810",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RD-19930",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RD-19930",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "RE-19450",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RF-19840",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RM-19375",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RO-19780",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RP-19270",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RP-19390",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RP-19855",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RS-19765",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "RW-19630",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SC-20020",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SC-20050",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SC-20230",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SC-20260",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SC-20260",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "SC-20305",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SC-20380",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SC-20380",
+  "order_year": "2016",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "SC-20695",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SC-20725",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SC-20725",
+  "order_year": "2015",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "SC-20770",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SC-20800",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SC-20800",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "SD-20485",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SD-20485",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "SE-20110",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SF-20065",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SF-20965",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SF-20965",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "SG-20890",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SG-20890",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "SH-19975",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SJ-20125",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SJ-20125",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "SJ-20215",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SJ-20500",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SL-20155",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SM-20005",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SN-20710",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SN-20710",
+  "order_year": "2016",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "SP-20620",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SP-20860",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SR-20740",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SS-20140",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SS-20875",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "ST-20530",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SV-20365",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SV-20815",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SV-20935",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SZ-20035",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "SZ-20035",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "TB-21175",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "TB-21250",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "TB-21355",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "TB-21355",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "TB-21520",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "TB-21595",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "TB-21625",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "TC-20980",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "TC-21295",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "TD-20995",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "TH-21115",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "TH-21235",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "TP-21130",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "TP-21415",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "TP-21415",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "TP-21565",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "TP-21565",
+  "order_year": "2016",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "TS-21340",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "TS-21655",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "TS-21655",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "TT-21220",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "TT-21220",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "TT-21460",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "TT-21460",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "VB-21745",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "VD-21670",
+  "order_year": "2015",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "VP-21760",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "VS-21820",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "VT-21700",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "VW-21775",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "WB-21850",
+  "order_year": "2014",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "WB-21850",
+  "order_year": "2016",
+  "customer_type": "Returning Customer"
+}, {
+  "customer_id": "XP-21865",
+  "order_year": "2017",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "YC-21895",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "ZC-21910",
+  "order_year": "2016",
+  "customer_type": "New Customer"
+}, {
+  "customer_id": "ZC-21910",
+  "order_year": "2017",
+  "customer_type": "Returning Customer"
+}]
