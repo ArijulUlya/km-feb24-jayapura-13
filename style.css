@@ -445,7 +445,6 @@ label.light {
 }
 
 .number {
-  background-color: #5fcf80;
   color: #fff;
   height: 30px;
   width: 30px;
@@ -486,4 +485,45 @@ th, td {
 }
 th {
   background-color: #f2f2f2;
+}
+
+.top-section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.top-section .card {
+  flex: 1;
+  background: linear-gradient(145deg, #6a11cb 0%, #2575fc 100%);
+  color: white;
+  padding: 20px;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+.top-section .card.total-profit {
+  background: linear-gradient(145deg, #6a11cb 0%, #ac7cfa 100%);
+}
+
+.top-section .card.total-customer {
+  background: linear-gradient(145deg, #7c8afa 0%, #e97cfa 100%);
+}
+
+.top-section .card.total-order {
+  background: linear-gradient(145deg, #ac7cfa 0%, #947cfa 100%);
+}
+
+.top-section .card.total-sales {
+  background: linear-gradient(145deg, #e97cfa 0%, #7c8afa 100%);
+}
+
+.top-section .number {
+  font-size: 2em;
+  margin: 0;
+}
+
+.top-section .label {
+  font-size: 1em;
+  margin: 0;
 }

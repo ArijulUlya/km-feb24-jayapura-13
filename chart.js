@@ -304,3 +304,66 @@ fetch('customergrowth.json')
         }
     });
     
+
+    // Scorecard
+    document.addEventListener('DOMContentLoaded', function () {
+        fetch('texas.json')
+            .then(response => response.json())
+            .then(data => {
+                renderScoreCard(data);
+            })
+            .catch(error => console.error('Error fetching data:', error));
+    
+        function renderScoreCard(data) {
+            var totalOrders = data.length;
+            document.getElementById('total-orders').textContent = totalOrders;
+        }
+    });
+    
+
+    document.addEventListener('DOMContentLoaded', function () {
+        fetch('texas.json')
+            .then(response => response.json())
+            .then(data => {
+                renderScoreCard(data);
+            })
+            .catch(error => console.error('Error fetching data:', error));
+    
+        function renderScoreCard(data) {
+            var totalSales = data.reduce((acc, item) => acc + parseFloat(item.Sales), 0);
+            document.getElementById('total-sales').textContent = totalSales.toFixed(2);
+        }
+    });
+    
+
+    document.addEventListener('DOMContentLoaded', function () {
+        fetch('texas.json')
+            .then(response => response.json())
+            .then(data => {
+                renderScoreCard(data);
+            })
+            .catch(error => console.error('Error fetching data:', error));
+    
+        function renderScoreCard(data) {
+            var totalProfit = data.reduce((acc, item) => acc + parseFloat(item.Profit), 0);
+            document.getElementById('total-profit').textContent = totalProfit.toFixed(2);
+        }
+    });
+    
+
+    document.addEventListener('DOMContentLoaded', function () {
+        fetch('texas.json')
+            .then(response => response.json())
+            .then(data => {
+                renderScoreCard(data);
+            })
+            .catch(error => console.error('Error fetching data:', error));
+    
+        function renderScoreCard(data) {
+            // Extract unique customer IDs
+            var uniqueCustomerIDs = [...new Set(data.map(item => item.Customer_ID))];
+            var totalUniqueCustomers = uniqueCustomerIDs.length;
+            document.getElementById('total-unique-customers').textContent = totalUniqueCustomers;
+        }
+    });
+    
