@@ -1,6 +1,5 @@
-document.querySelector('.menu-btn').addEventListener('click', () => document.querySelector('.main-menu').classList.toggle('show'));
 
-//5. load data json
+// load data json
 // document.addEventListener('DOMContentLoaded', () => {
 //     fetch('Superstore.json')
 //       .then(response => {
