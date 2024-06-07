@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const pageSize = 10; 
   let currentPage = 1;
 
-  fetch('texas.json')
+  fetch('Data/texas.json')
       .then(response => response.json())
       .then(texas => {
           texasData = texas;

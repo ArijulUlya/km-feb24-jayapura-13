@@ -1,6 +1,6 @@
 // AOV
 document.addEventListener('DOMContentLoaded', function () {
-    fetch('aov.json')
+    fetch('Data/aov.json')
         .then(response => response.json())
         .then(data => {
             renderaov(data);
@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 // CustomerGrowth
 // Ambil data dari file JSON lokal
-fetch('customergrowth.json')
+fetch('Data/customergrowth.json')
     .then(response => response.json())
     .then(data => {
         // Data JSON telah dimuat, sekarang buat chart
@@ -75,7 +75,7 @@ fetch('customergrowth.json')
 
     // CustomerRetention
     document.addEventListener('DOMContentLoaded', function () {
-        fetch('customerretention.json')
+        fetch('Data/customerretention.json')
             .then(response => response.json())
             .then(data => {
                 rendercustomerretention(data);
@@ -150,7 +150,7 @@ fetch('customergrowth.json')
     
     // profit
     document.addEventListener('DOMContentLoaded', function () {
-        fetch('texas.json')
+        fetch('Data/texas.json')
             .then(response => response.json())
             .then(texas => {
                 renderprofit(texas);
@@ -202,7 +202,7 @@ fetch('customergrowth.json')
     // sales per customer
     document.addEventListener('DOMContentLoaded', function () {
         // Fetch data from local JSON file
-        fetch('salespercus.json')
+        fetch('Data/salespercus.json')
             .then(response => response.json())
             .then(data => {
                 var aggregatedData = aggregateSales(data);
@@ -269,7 +269,7 @@ fetch('customergrowth.json')
 
     // Quantity
     document.addEventListener('DOMContentLoaded', function () {
-        fetch('quantity.json')
+        fetch('Data/quantity.json')
             .then(response => response.json())
             .then(data => {
                 renderquantity(data);
@@ -307,7 +307,7 @@ fetch('customergrowth.json')
 
     // Scorecard
     document.addEventListener('DOMContentLoaded', function () {
-        fetch('texas.json')
+        fetch('Data/texas.json')
             .then(response => response.json())
             .then(data => {
                 renderScoreCard(data);
@@ -322,7 +322,7 @@ fetch('customergrowth.json')
     
 
     document.addEventListener('DOMContentLoaded', function () {
-        fetch('texas.json')
+        fetch('Data/texas.json')
             .then(response => response.json())
             .then(data => {
                 renderScoreCard(data);
@@ -337,7 +337,7 @@ fetch('customergrowth.json')
     
 
     document.addEventListener('DOMContentLoaded', function () {
-        fetch('texas.json')
+        fetch('Data/texas.json')
             .then(response => response.json())
             .then(data => {
                 renderScoreCard(data);
@@ -352,7 +352,7 @@ fetch('customergrowth.json')
     
 
     document.addEventListener('DOMContentLoaded', function () {
-        fetch('texas.json')
+        fetch('Data/texas.json')
             .then(response => response.json())
             .then(data => {
                 renderScoreCard(data);
