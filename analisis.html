@@ -3,42 +3,48 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Analisis</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="CSS/style.css" />
   </head>
   <body>
-    <div class="container-home">
-      <nav class="main-nav">
-        <img
-          src="https://logodix.com/logo/1944543.png"
-          alt="Superstore"
-          class="logo"
-        />
-        <ul class="main-menu">
-          <li><a href="index.html">Home</a></li>
-          <li><a href="analisis.html">Analisis</a></li>
-          <li><a href="team.html">About Us</a></li>
-          <li><a href="form.html">Contact Us</a></li>
-        </ul>
+    <header class="header">
+      <nav class="nav">
+          <div class="h1logo">
+            <h1>SUPER<span>STORE</span></h1>
+          </div>
+          
+          <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="analisis.html">Analysis</a></li>
+              <li><a href="team.html">About Us</a></li>
+              <a href="form.html" class="btn">Contact Us</a>
+          </ul>
+          <div class="hamburger-menu" onclick="toggleMenu()">
+              <span class="bar"></span>
+              <span class="bar"></span>
+              <span class="bar"></span>
+          </div>           
       </nav>
+    </header>
+    <div class="container-home">
       <a href="tabel.html" class="btnn">
         CHECK DATA <i class="fas fa-chevron-right"></i>
       </a>
       <main>
         <div class="top-section">
           <div class="card total-profit">
-              <p class="number"><span id="total-profit"></span></p>
+              <p class="nomor"><span id="total-profit"></span></p>
               <p class="label">Total Profit</p>
           </div>
           <div class="card total-customer">
-              <p class="number"><span id="total-unique-customers"></span></p>
+              <p class="nomor"><span id="total-unique-customers"></span></p>
               <p class="label">Total Customer</p>
           </div>
           <div class="card total-order">
-              <p class="number"><span id="total-orders"></span></p>
+              <p class="nomor"><span id="total-orders"></span></p>
               <p class="label">Total Orders</p>
           </div>
           <div class="card total-sales">
-              <p class="number"><span id="total-sales"></span></p>
+              <p class="nomor"><span id="total-sales"></span></p>
               <p class="label">Total Sales</p>
           </div>
       </div>
@@ -52,6 +58,7 @@
             </div>
             <div class="card-desc"></div>
           </div>
+
           <div class="card c2">
             <div class="card-header">
               <h2>CUSTOMER GROWTH</h2>
@@ -61,6 +68,7 @@
             </div>
             <div class="card-desc"></div>
           </div>
+
           <div class="card c3">
             <div class="card-header">
               <h2>CUSTOMER RETENTION</h2>
@@ -70,6 +78,7 @@
             </div>
             <div class="card-desc"></div>
           </div>
+
           <div class="card c4">
             <div class="card-header">
               <h2>SALES PER CUSTOMER</h2>
@@ -79,6 +88,7 @@
             </div>
             <div class="card-desc"></div>
           </div>
+
           <div class="card c5">
             <div class="card-header">
               <h2>PROFIT PER CATEGORY</h2>
@@ -88,6 +98,7 @@
             </div>
             <div class="card-desc"></div>
           </div>
+          
           <div class="card c6">
             <div class="card-header">
               <h2>QUANTITY PER YEAR</h2>
@@ -97,10 +108,8 @@
             </div>
             <div class="card-desc"></div>
           </div>
-          <!-- Tambahkan lebih banyak kartu jika diperlukan -->
         </div>
       </main>
-      <canvas id="chart"></canvas> 
     </div>
     <footer>
       <div class="footer">
@@ -116,5 +125,6 @@
     </footer>
   </body>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <script src="chart.js"></script>
+  <script src="JS/chart.js"></script>
+  <script src="JS/script.js"></script>
 </html>

@@ -4,18 +4,28 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Data Table</title>
-  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" type="text/css" href="CSS/style.css">
 </head>
 <body>
-  <nav class="main-nav">
-    <img src="https://logodix.com/logo/1944543.png" alt="Superstore" class="logo">
-    <ul class="main-menu">
-      <li><a href="index.html">Home</a></li>
-      <li><a href="analisis.html">Analisis</a></li>
-      <li><a href="team.html">About Us</a></li>
-      <li><a href="form.html">Contact Us</a></li>
-    </ul>
-  </nav>
+  <header class="header">
+    <nav class="nav">
+        <div class="h1logo">
+          <h1>SUPER<span>STORE</span></h1>
+        </div>
+        
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="analisis.html">Analysis</a></li>
+            <li><a href="team.html">About Us</a></li>
+            <a href="form.html" class="btn">Contact Us</a>
+        </ul>
+        <div class="hamburger-menu" onclick="toggleMenu()">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </div>           
+    </nav>
+  </header>
   <a href="analisis.html" class="btnn">
     Go To Analysis <i class="fas fa-chevron-right"></i>
   </a>
@@ -39,6 +49,7 @@
   </tbody>
 </table>
 
-<script src="tabel.js"></script>
+<script src="JS/tabel.js"></script>
+<script src="JS/script.js"></script>
 </body>
 </html>

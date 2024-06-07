@@ -4,20 +4,30 @@
   <meta charset="UTF-8">
   <title>Superstore</title>
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css'>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="CSS/style.css">
 </head>
 <body>
-  <div class="container-home">
-    <nav class="main-nav">
-      <img src="https://logodix.com/logo/1944543.png" alt="Superstore" class="logo">
-      <ul class="main-menu">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="analisis.html">Analisis</a></li>
-        <li><a href="team.html">About Us</a></li>
-        <li><a href="form.html">Contact Us</a></li>
-      </ul>
+  <header class="header">
+    <nav class="nav">
+        <div class="h1logo">
+          <h1>SUPER<span>STORE</span></h1>
+        </div>
+        
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="analisis.html">Analysis</a></li>
+            <li><a href="team.html">About Us</a></li>
+            <a href="form.html" class="btn">Contact Us</a>
+        </ul>
+        <div class="hamburger-menu" onclick="toggleMenu()">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </div>           
     </nav>
+  </header>
 
+  <div class="container-home">
     <header class="home">
       <h2>Welcome to Team 13 Jayapura Superstore Analysis</h2>
       <p>
@@ -47,15 +57,16 @@
           </a>
       </div>
     </section> 
-    </div>
-      <footer>
-        <div class="footer">
-            <h4>Team 13 - Jayapura</h4>
-            <img src="Gambar/revou.jpg" alt="RevoU" class="revou">
-            <img src="Gambar/kampus-merdeka.png" alt="Kampus Merdeka" class="kampus-merdeka">
-            <img src="Gambar/github.png" alt="GitHub" class="github">
-        </div>
-    </footer>
-  <script src="script.js"></script>
+  </div>
+
+    <footer>
+      <div class="footer">
+          <h4>Team 13 - Jayapura</h4>
+          <img src="Gambar/revou.jpg" alt="RevoU" class="revou">
+          <img src="Gambar/kampus-merdeka.png" alt="Kampus Merdeka" class="kampus-merdeka">
+          <img src="Gambar/github.png" alt="GitHub" class="github">
+      </div>
+  </footer>
+  <script src="JS/script.js"></script>
 </body>
 </html>

@@ -4,25 +4,31 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Superstore</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="CSS/style.css" />
   </head>
   <body>
-    <div class="container-home">
-      <nav class="main-nav">
-        <img
-          src="https://logodix.com/logo/1944543.png"
-          alt="Superstore"
-          class="logo"
-        />
-        <ul class="main-menu">
-          <li><a href="index.html">Home</a></li>
-          <li><a href="analisis.html">Analisis</a></li>
-          <li><a href="team.html">About Us</a></li>
-          <li><a href="form.html">Contact Us</a></li>
-        </ul>
+    <header class="header">
+      <nav class="nav">
+          <div class="h1logo">
+            <h1>SUPER<span>STORE</span></h1>
+          </div>
+          
+          <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="analisis.html">Analysis</a></li>
+              <li><a href="team.html">About Us</a></li>
+              <a href="form.html" class="btn">Contact Us</a>
+          </ul>
+          <div class="hamburger-menu" onclick="toggleMenu()">
+              <span class="bar"></span>
+              <span class="bar"></span>
+              <span class="bar"></span>
+          </div>           
       </nav>
+    </header>
+    <div class="container-home">
       <h2 class="teamh2">TEAM 13 JAYAPURA</h2>
-      <h5>"Login your Linked Account before Connect with our team member"</h5>
+      <h3>Login your Linked Account before Connect with our team member</h3>
       <div class="profile-container">
         <div class="profile-card">
           <img src="Profil/Danar.jpg" alt="image1" class="profile-icon" />
