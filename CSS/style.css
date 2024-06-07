@@ -385,18 +385,6 @@ label.light {
   display: inline;
 }
 
-.number {
-  color: black;
-  height: 30px;
-  width: 30px;
-  display: inline-block;
-  font-size: 0.8em;
-  margin-right: 4px;
-  line-height: 30px;
-  text-align: center;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.2);
-  border-radius: 100%;
-}
 
 .btnn {
   cursor: pointer;
@@ -467,6 +455,52 @@ th {
   margin: 0;
 }
 
+/* Form */
+
+.row .col-md-12 h1{
+  margin-bottom: 20px;
+}
+
+/* dataTable Responsive */
+#dataTable {
+  width: 100%;
+  margin: 20px auto;
+  overflow-x: auto;
+  
+}
+
+#dataTable th, #dataTable td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#dataTable th {
+  background-color: #f2f2f2;
+}
+
+#pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+#pagination button {
+  padding: 10px 20px;
+  background-color: #555;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#pagination button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
 @media screen and (max-width: 768px) {
   .hamburger-menu{
       display: block;
@@ -485,16 +519,16 @@ th {
   }
 
   .nav ul{
-      position: fixed;
-      right: -100%;
-      top: 70px;
-      gap: 0;
-      flex-direction: column;
-      width: 100%;
-      text-align: center;
-      transition: 0.3s;
-      background-color: white;
-      padding-bottom: 10px;
+    position: fixed;
+    right: 0;
+    top: -100%;
+    gap: 0;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+    transition: top 0.3s;
+    background-color: white;
+    padding-bottom: 10px;
   }
 
   .nav ul li{
@@ -502,7 +536,7 @@ th {
   }
 
   .nav ul.active {
-      right: 0;
+    top: 70px;
   }
 }
 @media (max-width: 768px) {
@@ -576,5 +610,26 @@ th {
 
   .profile-card {
     max-width: 100%;
+  }
+  
+  #dataTable {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #pagination {
+    flex-direction: column;
+  }
+
+  #pagination button {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .nav .h1logo {
+    font-size: 15px;
   }
 }
