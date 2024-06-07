@@ -4,25 +4,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Contact Us</title>
     <link rel="stylesheet" href="CSS/style.css" />
+    <script src="JS/script.js"></script>
   </head>
   <body>
     <header class="header">
       <nav class="nav">
-          <div class="h1logo">
-            <h1>SUPER<span>STORE</span></h1>
-          </div>
-          
-          <ul>
-              <li><a href="index.html">Home</a></li>
-              <li><a href="analisis.html">Analysis</a></li>
-              <li><a href="team.html">About Us</a></li>
-              <a href="form.html" class="btn">Contact Us</a>
-          </ul>
-          <div class="hamburger-menu" onclick="toggleMenu()">
-              <span class="bar"></span>
-              <span class="bar"></span>
-              <span class="bar"></span>
-          </div>           
+        <div class="h1logo">
+          <h1>SUPER<span>STORE</span></h1>
+        </div>
+
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="analisis.html">Analysis</a></li>
+          <li><a href="team.html">About Us</a></li>
+          <a href="form.html" class="btn">Contact Us</a>
+        </ul>
+        <div class="hamburger-menu" onclick="toggleMenu()">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </div>
       </nav>
     </header>
     <div class="container-home">
@@ -32,7 +33,7 @@
             <h1>Contact Us</h1>
 
             <fieldset>
-              <legend><span class="number">1</span> Your Basic Info</legend>
+              <legend>Your Basic Info</legend>
               <label for="name">Name:</label>
               <input type="text" id="name" name="user_name" />
               <label for="email">Email:</label>
@@ -41,9 +42,7 @@
               <input type="text" id="handphone" name="user_handphone" />
             </fieldset>
             <fieldset>
-              <legend>
-                <span class="number">2</span> comments or suggestions?
-              </legend>
+              <legend>Comments or suggestions?</legend>
               <label for="Message">Message:</label>
               <textarea id="Message" name="user_message"></textarea>
               <label for="category">Category:</label>
